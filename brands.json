@@ -1,0 +1,7778 @@
+[
+  {
+    "title": ".NET",
+    "hex": "#512BD4"
+  },
+  {
+    "title": "1001Tracklists",
+    "hex": "#40AEF0"
+  },
+  {
+    "title": "1Password",
+    "hex": "#0094F5"
+  },
+  {
+    "title": "3M",
+    "hex": "#FF0000"
+  },
+  {
+    "title": "42",
+    "hex": "#000000"
+  },
+  {
+    "title": "4D",
+    "hex": "#004088"
+  },
+  {
+    "title": "500px",
+    "hex": "#0099E5"
+  },
+  {
+    "title": "A-Frame",
+    "hex": "#EF2D5E"
+  },
+  {
+    "title": "ABB RobotStudio",
+    "hex": "#FF9E0F"
+  },
+  {
+    "title": "Abbvie",
+    "hex": "#071D49"
+  },
+  {
+    "title": "Ableton Live",
+    "hex": "#000000"
+  },
+  {
+    "title": "About.me",
+    "hex": "#00A98F"
+  },
+  {
+    "title": "Abstract",
+    "hex": "#191A1B"
+  },
+  {
+    "title": "Academia",
+    "hex": "#41454A"
+  },
+  {
+    "title": "Accenture",
+    "hex": "#A100FF"
+  },
+  {
+    "title": "Acclaim",
+    "hex": "#26689A"
+  },
+  {
+    "title": "Accusoft",
+    "hex": "#A9225C"
+  },
+  {
+    "title": "Acer",
+    "hex": "#83B81A"
+  },
+  {
+    "title": "ACM",
+    "hex": "#0085CA"
+  },
+  {
+    "title": "ActiGraph",
+    "hex": "#0B2C4A"
+  },
+  {
+    "title": "Activision",
+    "hex": "#000000"
+  },
+  {
+    "title": "Adafruit",
+    "hex": "#000000"
+  },
+  {
+    "title": "AdBlock",
+    "hex": "#F40D12"
+  },
+  {
+    "title": "Adblock Plus",
+    "hex": "#C70D2C"
+  },
+  {
+    "title": "AddThis",
+    "hex": "#FF6550"
+  },
+  {
+    "title": "AdGuard",
+    "hex": "#68BC71"
+  },
+  {
+    "title": "Adobe",
+    "hex": "#FF0000"
+  },
+  {
+    "title": "Adobe Acrobat Reader",
+    "hex": "#EC1C24"
+  },
+  {
+    "title": "Adobe After Effects",
+    "hex": "#9999FF"
+  },
+  {
+    "title": "Adobe Audition",
+    "hex": "#9999FF"
+  },
+  {
+    "title": "Adobe Creative Cloud",
+    "hex": "#DA1F26"
+  },
+  {
+    "title": "Adobe Dreamweaver",
+    "hex": "#FF61F6"
+  },
+  {
+    "title": "Adobe Fonts",
+    "hex": "#000B1D"
+  },
+  {
+    "title": "Adobe Illustrator",
+    "hex": "#FF9A00"
+  },
+  {
+    "title": "Adobe InDesign",
+    "hex": "#FF3366"
+  },
+  {
+    "title": "Adobe Lightroom",
+    "hex": "#31A8FF"
+  },
+  {
+    "title": "Adobe Lightroom Classic",
+    "hex": "#31A8FF"
+  },
+  {
+    "title": "Adobe Photoshop",
+    "hex": "#31A8FF"
+  },
+  {
+    "title": "Adobe Premiere Pro",
+    "hex": "#9999FF"
+  },
+  {
+    "title": "Adobe XD",
+    "hex": "#FF61F6"
+  },
+  {
+    "title": "AdonisJS",
+    "hex": "#220052"
+  },
+  {
+    "title": "Aer Lingus",
+    "hex": "#006272"
+  },
+  {
+    "title": "Aeroflot",
+    "hex": "#02458D"
+  },
+  {
+    "title": "Aeroméxico",
+    "hex": "#0B2343"
+  },
+  {
+    "title": "Aerospike",
+    "hex": "#C41E25"
+  },
+  {
+    "title": "Affinity",
+    "hex": "#222324"
+  },
+  {
+    "title": "Affinity Designer",
+    "hex": "#1B72BE"
+  },
+  {
+    "title": "Affinity Photo",
+    "hex": "#7E4DD2"
+  },
+  {
+    "title": "Affinity Publisher",
+    "hex": "#C9284D"
+  },
+  {
+    "title": "AI Dungeon",
+    "hex": "#000000"
+  },
+  {
+    "title": "AIOHTTP",
+    "hex": "#2C5BB4"
+  },
+  {
+    "title": "Aiqfome",
+    "hex": "#7A1FA2"
+  },
+  {
+    "title": "Air Canada",
+    "hex": "#F01428"
+  },
+  {
+    "title": "Air China",
+    "hex": "#E30E17"
+  },
+  {
+    "title": "Air France",
+    "hex": "#002157"
+  },
+  {
+    "title": "AirAsia",
+    "hex": "#FF0000"
+  },
+  {
+    "title": "Airbnb",
+    "hex": "#FF5A5F"
+  },
+  {
+    "title": "Airbus",
+    "hex": "#00205B"
+  },
+  {
+    "title": "Aircall",
+    "hex": "#00B388"
+  },
+  {
+    "title": "AirPlay Audio",
+    "hex": "#000000"
+  },
+  {
+    "title": "AirPlay Video",
+    "hex": "#000000"
+  },
+  {
+    "title": "Airtable",
+    "hex": "#18BFFF"
+  },
+  {
+    "title": "Alacritty",
+    "hex": "#F46D01"
+  },
+  {
+    "title": "Alfa Romeo",
+    "hex": "#981E32"
+  },
+  {
+    "title": "Algolia",
+    "hex": "#5468FF"
+  },
+  {
+    "title": "Alibaba Cloud",
+    "hex": "#FF6A00"
+  },
+  {
+    "title": "Alibaba.com",
+    "hex": "#FF6A00"
+  },
+  {
+    "title": "AliExpress",
+    "hex": "#FF4747"
+  },
+  {
+    "title": "Alipay",
+    "hex": "#00A1E9"
+  },
+  {
+    "title": "Alitalia",
+    "hex": "#006643"
+  },
+  {
+    "title": "AlliedModders",
+    "hex": "#1578D3"
+  },
+  {
+    "title": "AlloCiné",
+    "hex": "#FECC00"
+  },
+  {
+    "title": "AllTrails",
+    "hex": "#428813"
+  },
+  {
+    "title": "Alpine Linux",
+    "hex": "#0D597F"
+  },
+  {
+    "title": "Alpine.js",
+    "hex": "#8BC0D0"
+  },
+  {
+    "title": "Altium Designer",
+    "hex": "#A5915F"
+  },
+  {
+    "title": "Amazon",
+    "hex": "#FF9900"
+  },
+  {
+    "title": "Amazon Alexa",
+    "hex": "#00CAFF"
+  },
+  {
+    "title": "Amazon AWS",
+    "hex": "#232F3E"
+  },
+  {
+    "title": "Amazon DynamoDB",
+    "hex": "#4053D6"
+  },
+  {
+    "title": "Amazon Fire TV",
+    "hex": "#FC4C02"
+  },
+  {
+    "title": "Amazon Lumberyard",
+    "hex": "#66459B"
+  },
+  {
+    "title": "Amazon Pay",
+    "hex": "#FF9900"
+  },
+  {
+    "title": "Amazon Prime",
+    "hex": "#00A8E1"
+  },
+  {
+    "title": "Amazon S3",
+    "hex": "#569A31"
+  },
+  {
+    "title": "AMD",
+    "hex": "#ED1C24"
+  },
+  {
+    "title": "American Airlines",
+    "hex": "#0078D2"
+  },
+  {
+    "title": "American Express",
+    "hex": "#2E77BC"
+  },
+  {
+    "title": "AMP",
+    "hex": "#005AF0"
+  },
+  {
+    "title": "Amul",
+    "hex": "#ED1D24"
+  },
+  {
+    "title": "ANA",
+    "hex": "#13448F"
+  },
+  {
+    "title": "Anaconda",
+    "hex": "#44A833"
+  },
+  {
+    "title": "Analogue",
+    "hex": "#1A1A1A"
+  },
+  {
+    "title": "Anchor",
+    "hex": "#5000B9"
+  },
+  {
+    "title": "Andela",
+    "hex": "#3359DF"
+  },
+  {
+    "title": "Android",
+    "hex": "#3DDC84"
+  },
+  {
+    "title": "Android Auto",
+    "hex": "#3DDC84"
+  },
+  {
+    "title": "Android Studio",
+    "hex": "#3DDC84"
+  },
+  {
+    "title": "AngelList",
+    "hex": "#000000"
+  },
+  {
+    "title": "Angular",
+    "hex": "#DD0031"
+  },
+  {
+    "title": "Angular Universal",
+    "hex": "#00ACC1"
+  },
+  {
+    "title": "AngularJS",
+    "hex": "#E23237"
+  },
+  {
+    "title": "AniList",
+    "hex": "#02A9FF"
+  },
+  {
+    "title": "Ansible",
+    "hex": "#EE0000"
+  },
+  {
+    "title": "Ansys",
+    "hex": "#FFB71B"
+  },
+  {
+    "title": "Ant Design",
+    "hex": "#0170FE"
+  },
+  {
+    "title": "Antena 3",
+    "hex": "#FF7328"
+  },
+  {
+    "title": "AnyDesk",
+    "hex": "#EF443B"
+  },
+  {
+    "title": "AOL",
+    "hex": "#3399FF"
+  },
+  {
+    "title": "Apache",
+    "hex": "#D22128"
+  },
+  {
+    "title": "Apache Airflow",
+    "hex": "#017CEE"
+  },
+  {
+    "title": "Apache Ant",
+    "hex": "#A81C7D"
+  },
+  {
+    "title": "Apache Cassandra",
+    "hex": "#1287B1"
+  },
+  {
+    "title": "Apache CloudStack",
+    "hex": "#2AA5DC"
+  },
+  {
+    "title": "Apache Cordova",
+    "hex": "#E8E8E8"
+  },
+  {
+    "title": "Apache Druid",
+    "hex": "#29F1FB"
+  },
+  {
+    "title": "Apache ECharts",
+    "hex": "#AA344D"
+  },
+  {
+    "title": "Apache Flink",
+    "hex": "#E6526F"
+  },
+  {
+    "title": "Apache Groovy",
+    "hex": "#4298B8"
+  },
+  {
+    "title": "Apache Hive",
+    "hex": "#FDEE21"
+  },
+  {
+    "title": "Apache JMeter",
+    "hex": "#D22128"
+  },
+  {
+    "title": "Apache Kafka",
+    "hex": "#231F20"
+  },
+  {
+    "title": "Apache Kylin",
+    "hex": "#F09D13"
+  },
+  {
+    "title": "Apache Maven",
+    "hex": "#C71A36"
+  },
+  {
+    "title": "Apache NetBeans IDE",
+    "hex": "#1B6AC6"
+  },
+  {
+    "title": "Apache OpenOffice",
+    "hex": "#0E85CD"
+  },
+  {
+    "title": "Apache Pulsar",
+    "hex": "#188FFF"
+  },
+  {
+    "title": "Apache RocketMQ",
+    "hex": "#D77310"
+  },
+  {
+    "title": "Apache Solr",
+    "hex": "#D9411E"
+  },
+  {
+    "title": "Apache Spark",
+    "hex": "#E25A1C"
+  },
+  {
+    "title": "Apache Tomcat",
+    "hex": "#F8DC75"
+  },
+  {
+    "title": "Aparat",
+    "hex": "#ED145B"
+  },
+  {
+    "title": "Apollo GraphQL",
+    "hex": "#311C87"
+  },
+  {
+    "title": "Apostrophe",
+    "hex": "#6236FF"
+  },
+  {
+    "title": "App Store",
+    "hex": "#0D96F6"
+  },
+  {
+    "title": "Apple",
+    "hex": "#000000"
+  },
+  {
+    "title": "Apple Arcade",
+    "hex": "#000000"
+  },
+  {
+    "title": "Apple Music",
+    "hex": "#FA243C"
+  },
+  {
+    "title": "Apple Pay",
+    "hex": "#000000"
+  },
+  {
+    "title": "Apple Podcasts",
+    "hex": "#9933CC"
+  },
+  {
+    "title": "Apple TV",
+    "hex": "#000000"
+  },
+  {
+    "title": "AppSignal",
+    "hex": "#21375A"
+  },
+  {
+    "title": "AppVeyor",
+    "hex": "#00B3E0"
+  },
+  {
+    "title": "ARAL",
+    "hex": "#0063CB"
+  },
+  {
+    "title": "ArangoDB",
+    "hex": "#DDE072"
+  },
+  {
+    "title": "Arch Linux",
+    "hex": "#1793D1"
+  },
+  {
+    "title": "Archicad",
+    "hex": "#2D50A5"
+  },
+  {
+    "title": "Archive of Our Own",
+    "hex": "#990000"
+  },
+  {
+    "title": "Ardour",
+    "hex": "#C61C3E"
+  },
+  {
+    "title": "Arduino",
+    "hex": "#00979D"
+  },
+  {
+    "title": "ARK Ecosystem",
+    "hex": "#C9292C"
+  },
+  {
+    "title": "Arlo",
+    "hex": "#49B48A"
+  },
+  {
+    "title": "Artix Linux",
+    "hex": "#10A0CC"
+  },
+  {
+    "title": "ArtStation",
+    "hex": "#13AFF0"
+  },
+  {
+    "title": "arXiv",
+    "hex": "#B31B1B"
+  },
+  {
+    "title": "Asana",
+    "hex": "#273347"
+  },
+  {
+    "title": "Asciidoctor",
+    "hex": "#E40046"
+  },
+  {
+    "title": "asciinema",
+    "hex": "#D40000"
+  },
+  {
+    "title": "Aseprite",
+    "hex": "#7D929E"
+  },
+  {
+    "title": "Ask Ubuntu",
+    "hex": "#DC461D"
+  },
+  {
+    "title": "ASKfm",
+    "hex": "#DB3552"
+  },
+  {
+    "title": "AssemblyScript",
+    "hex": "#007AAC"
+  },
+  {
+    "title": "ASUS",
+    "hex": "#000000"
+  },
+  {
+    "title": "AT&T",
+    "hex": "#009FDB"
+  },
+  {
+    "title": "Atari",
+    "hex": "#E4202E"
+  },
+  {
+    "title": "Atlassian",
+    "hex": "#0052CC"
+  },
+  {
+    "title": "Atom",
+    "hex": "#66595C"
+  },
+  {
+    "title": "Audacity",
+    "hex": "#0000CC"
+  },
+  {
+    "title": "Audi",
+    "hex": "#BB0A30"
+  },
+  {
+    "title": "Audible",
+    "hex": "#F8991C"
+  },
+  {
+    "title": "Audio-Technica",
+    "hex": "#000000"
+  },
+  {
+    "title": "Audioboom",
+    "hex": "#007CE2"
+  },
+  {
+    "title": "Audiomack",
+    "hex": "#FFA200"
+  },
+  {
+    "title": "Aurelia",
+    "hex": "#ED2B88"
+  },
+  {
+    "title": "Auth0",
+    "hex": "#EB5424"
+  },
+  {
+    "title": "Authy",
+    "hex": "#EC1C24"
+  },
+  {
+    "title": "Autodesk",
+    "hex": "#0696D7"
+  },
+  {
+    "title": "AutoHotkey",
+    "hex": "#334455"
+  },
+  {
+    "title": "Automattic",
+    "hex": "#3499CD"
+  },
+  {
+    "title": "Awesome Lists",
+    "hex": "#FC60A8"
+  },
+  {
+    "title": "awesomeWM",
+    "hex": "#535D6C"
+  },
+  {
+    "title": "AWS Amplify",
+    "hex": "#FF9900"
+  },
+  {
+    "title": "Azure Artifacts",
+    "hex": "#CB2E6D"
+  },
+  {
+    "title": "Azure Data Explorer",
+    "hex": "#0078D4"
+  },
+  {
+    "title": "Azure DevOps",
+    "hex": "#0078D7"
+  },
+  {
+    "title": "Azure Functions",
+    "hex": "#0062AD"
+  },
+  {
+    "title": "Azure Pipelines",
+    "hex": "#2560E0"
+  },
+  {
+    "title": "B&R Automation",
+    "hex": "#FF8800"
+  },
+  {
+    "title": "Babel",
+    "hex": "#F9DC3E"
+  },
+  {
+    "title": "Badgr",
+    "hex": "#282C4C"
+  },
+  {
+    "title": "Badoo",
+    "hex": "#783BF9"
+  },
+  {
+    "title": "Baidu",
+    "hex": "#2932E1"
+  },
+  {
+    "title": "Bamboo",
+    "hex": "#0052CC"
+  },
+  {
+    "title": "Bandcamp",
+    "hex": "#408294"
+  },
+  {
+    "title": "BandLab",
+    "hex": "#DC3710"
+  },
+  {
+    "title": "Bandsintown",
+    "hex": "#00CEC8"
+  },
+  {
+    "title": "Bank of America",
+    "hex": "#012169"
+  },
+  {
+    "title": "Barclays",
+    "hex": "#00AEEF"
+  },
+  {
+    "title": "Baremetrics",
+    "hex": "#6078FF"
+  },
+  {
+    "title": "Basecamp",
+    "hex": "#1D2D35"
+  },
+  {
+    "title": "Bata",
+    "hex": "#DD282E"
+  },
+  {
+    "title": "Bath ASU",
+    "hex": "#00A3E0"
+  },
+  {
+    "title": "Battle.net",
+    "hex": "#148EFF"
+  },
+  {
+    "title": "BBC",
+    "hex": "#000000"
+  },
+  {
+    "title": "BBC iPlayer",
+    "hex": "#F54997"
+  },
+  {
+    "title": "Beatport",
+    "hex": "#01FF95"
+  },
+  {
+    "title": "Beats",
+    "hex": "#005571"
+  },
+  {
+    "title": "Beats by Dre",
+    "hex": "#E01F3D"
+  },
+  {
+    "title": "Behance",
+    "hex": "#1769FF"
+  },
+  {
+    "title": "Beijing Subway",
+    "hex": "#004A9D"
+  },
+  {
+    "title": "Bentley",
+    "hex": "#333333"
+  },
+  {
+    "title": "Betfair",
+    "hex": "#FFB80B"
+  },
+  {
+    "title": "Big Cartel",
+    "hex": "#222222"
+  },
+  {
+    "title": "bigbasket",
+    "hex": "#A5CD39"
+  },
+  {
+    "title": "BigBlueButton",
+    "hex": "#283274"
+  },
+  {
+    "title": "BigCommerce",
+    "hex": "#121118"
+  },
+  {
+    "title": "Bilibili",
+    "hex": "#00A1D6"
+  },
+  {
+    "title": "Binance",
+    "hex": "#F0B90B"
+  },
+  {
+    "title": "Bit",
+    "hex": "#73398D"
+  },
+  {
+    "title": "Bitbucket",
+    "hex": "#0052CC"
+  },
+  {
+    "title": "Bitcoin",
+    "hex": "#F7931A"
+  },
+  {
+    "title": "Bitcoin Cash",
+    "hex": "#0AC18E"
+  },
+  {
+    "title": "Bitcoin SV",
+    "hex": "#EAB300"
+  },
+  {
+    "title": "Bitdefender",
+    "hex": "#ED1C24"
+  },
+  {
+    "title": "Bitly",
+    "hex": "#EE6123"
+  },
+  {
+    "title": "Bitrise",
+    "hex": "#683D87"
+  },
+  {
+    "title": "Bitwarden",
+    "hex": "#175DDC"
+  },
+  {
+    "title": "Bitwig",
+    "hex": "#FF5A00"
+  },
+  {
+    "title": "Blackberry",
+    "hex": "#000000"
+  },
+  {
+    "title": "Blazemeter",
+    "hex": "#CA2133"
+  },
+  {
+    "title": "Blazor",
+    "hex": "#512BD4"
+  },
+  {
+    "title": "Blender",
+    "hex": "#F5792A"
+  },
+  {
+    "title": "Blockchain.com",
+    "hex": "#121D33"
+  },
+  {
+    "title": "Blogger",
+    "hex": "#FF5722"
+  },
+  {
+    "title": "Bloglovin",
+    "hex": "#000000"
+  },
+  {
+    "title": "Blueprint",
+    "hex": "#137CBD"
+  },
+  {
+    "title": "Bluetooth",
+    "hex": "#0082FC"
+  },
+  {
+    "title": "BMC Software",
+    "hex": "#FE5000"
+  },
+  {
+    "title": "BMW",
+    "hex": "#0066B1"
+  },
+  {
+    "title": "Boeing",
+    "hex": "#1D439C"
+  },
+  {
+    "title": "BookBub",
+    "hex": "#F44336"
+  },
+  {
+    "title": "Bookmeter",
+    "hex": "#64BC4B"
+  },
+  {
+    "title": "BookStack",
+    "hex": "#0288D1"
+  },
+  {
+    "title": "Boost",
+    "hex": "#F7901E"
+  },
+  {
+    "title": "Bootstrap",
+    "hex": "#7952B3"
+  },
+  {
+    "title": "Bosch",
+    "hex": "#EA0016"
+  },
+  {
+    "title": "Bose",
+    "hex": "#000000"
+  },
+  {
+    "title": "Bower",
+    "hex": "#EF5734"
+  },
+  {
+    "title": "Box",
+    "hex": "#0061D5"
+  },
+  {
+    "title": "Brandfolder",
+    "hex": "#40D1F5"
+  },
+  {
+    "title": "Brave",
+    "hex": "#FB542B"
+  },
+  {
+    "title": "Breaker",
+    "hex": "#003DAD"
+  },
+  {
+    "title": "British Airways",
+    "hex": "#2E5C99"
+  },
+  {
+    "title": "Broadcom",
+    "hex": "#CC092F"
+  },
+  {
+    "title": "BT",
+    "hex": "#6400AA"
+  },
+  {
+    "title": "Buddy",
+    "hex": "#1A86FD"
+  },
+  {
+    "title": "Buefy",
+    "hex": "#7957D5"
+  },
+  {
+    "title": "Buffer",
+    "hex": "#231F20"
+  },
+  {
+    "title": "Bugatti",
+    "hex": "#BE0030"
+  },
+  {
+    "title": "Bugcrowd",
+    "hex": "#F26822"
+  },
+  {
+    "title": "Bugsnag",
+    "hex": "#4949E4"
+  },
+  {
+    "title": "Buildkite",
+    "hex": "#14CC80"
+  },
+  {
+    "title": "Bulma",
+    "hex": "#00D1B2"
+  },
+  {
+    "title": "bunq",
+    "hex": "#3394D7"
+  },
+  {
+    "title": "Buy Me A Coffee",
+    "hex": "#FFDD00"
+  },
+  {
+    "title": "BuzzFeed",
+    "hex": "#EE3322"
+  },
+  {
+    "title": "byte",
+    "hex": "#551DEF"
+  },
+  {
+    "title": "ByteDance",
+    "hex": "#3C8CFF"
+  },
+  {
+    "title": "C",
+    "hex": "#A8B9CC"
+  },
+  {
+    "title": "C Sharp",
+    "hex": "#239120"
+  },
+  {
+    "title": "C++",
+    "hex": "#00599C"
+  },
+  {
+    "title": "Cachet",
+    "hex": "#7ED321"
+  },
+  {
+    "title": "Cairo Metro",
+    "hex": "#C10C0C"
+  },
+  {
+    "title": "CakePHP",
+    "hex": "#D33C43"
+  },
+  {
+    "title": "Campaign Monitor",
+    "hex": "#111324"
+  },
+  {
+    "title": "Canonical",
+    "hex": "#77216F"
+  },
+  {
+    "title": "Canva",
+    "hex": "#00C4CC"
+  },
+  {
+    "title": "Capacitor",
+    "hex": "#119EFF"
+  },
+  {
+    "title": "Car Throttle",
+    "hex": "#FF9C42"
+  },
+  {
+    "title": "Carto",
+    "hex": "#EB1510"
+  },
+  {
+    "title": "Cash App",
+    "hex": "#00C244"
+  },
+  {
+    "title": "Castbox",
+    "hex": "#F55B23"
+  },
+  {
+    "title": "Castorama",
+    "hex": "#0078D7"
+  },
+  {
+    "title": "Castro",
+    "hex": "#00B265"
+  },
+  {
+    "title": "Caterpillar",
+    "hex": "#FFCD11"
+  },
+  {
+    "title": "CBS",
+    "hex": "#033963"
+  },
+  {
+    "title": "CD Projekt",
+    "hex": "#DC0D15"
+  },
+  {
+    "title": "Celery",
+    "hex": "#37814A"
+  },
+  {
+    "title": "CentOS",
+    "hex": "#262577"
+  },
+  {
+    "title": "Ceph",
+    "hex": "#EF5C55"
+  },
+  {
+    "title": "Cesium",
+    "hex": "#6CADDF"
+  },
+  {
+    "title": "Chai",
+    "hex": "#A30701"
+  },
+  {
+    "title": "Chainlink",
+    "hex": "#375BD2"
+  },
+  {
+    "title": "Chakra UI",
+    "hex": "#319795"
+  },
+  {
+    "title": "Chart.js",
+    "hex": "#FF6384"
+  },
+  {
+    "title": "ChartMogul",
+    "hex": "#13324B"
+  },
+  {
+    "title": "Chase",
+    "hex": "#117ACA"
+  },
+  {
+    "title": "ChatBot",
+    "hex": "#FFD000"
+  },
+  {
+    "title": "CheckiO",
+    "hex": "#008DB6"
+  },
+  {
+    "title": "Checkmarx",
+    "hex": "#54B848"
+  },
+  {
+    "title": "Chef",
+    "hex": "#F09820"
+  },
+  {
+    "title": "Chevrolet",
+    "hex": "#CD9834"
+  },
+  {
+    "title": "China Eastern Airlines",
+    "hex": "#1A2477"
+  },
+  {
+    "title": "China Southern Airlines",
+    "hex": "#008BCB"
+  },
+  {
+    "title": "Chocolatey",
+    "hex": "#80B5E3"
+  },
+  {
+    "title": "Chrysler",
+    "hex": "#000000"
+  },
+  {
+    "title": "Chupa Chups",
+    "hex": "#CF103E"
+  },
+  {
+    "title": "Cinema 4D",
+    "hex": "#011A6A"
+  },
+  {
+    "title": "Circle",
+    "hex": "#8669AE"
+  },
+  {
+    "title": "CircleCI",
+    "hex": "#343434"
+  },
+  {
+    "title": "Cirrus CI",
+    "hex": "#4051B5"
+  },
+  {
+    "title": "Cisco",
+    "hex": "#1BA0D7"
+  },
+  {
+    "title": "Citrix",
+    "hex": "#452170"
+  },
+  {
+    "title": "Citroën",
+    "hex": "#6E6E6E"
+  },
+  {
+    "title": "CiviCRM",
+    "hex": "#81C459"
+  },
+  {
+    "title": "CKEditor 4",
+    "hex": "#0287D0"
+  },
+  {
+    "title": "Claris",
+    "hex": "#000000"
+  },
+  {
+    "title": "ClickUp",
+    "hex": "#7B68EE"
+  },
+  {
+    "title": "CLion",
+    "hex": "#000000"
+  },
+  {
+    "title": "Cliqz",
+    "hex": "#00AEF0"
+  },
+  {
+    "title": "Clockify",
+    "hex": "#03A9F4"
+  },
+  {
+    "title": "Clojure",
+    "hex": "#5881D8"
+  },
+  {
+    "title": "Cloud 66",
+    "hex": "#3C72B9"
+  },
+  {
+    "title": "Cloud Foundry",
+    "hex": "#0C9ED5"
+  },
+  {
+    "title": "CloudBees",
+    "hex": "#1997B5"
+  },
+  {
+    "title": "CloudCannon",
+    "hex": "#407AFC"
+  },
+  {
+    "title": "Cloudera",
+    "hex": "#F96702"
+  },
+  {
+    "title": "Cloudflare",
+    "hex": "#F38020"
+  },
+  {
+    "title": "Cloudsmith",
+    "hex": "#187EB6"
+  },
+  {
+    "title": "Cloudways",
+    "hex": "#2C39BD"
+  },
+  {
+    "title": "Clubhouse",
+    "hex": "#6515DD"
+  },
+  {
+    "title": "Clyp",
+    "hex": "#3CBDB1"
+  },
+  {
+    "title": "CMake",
+    "hex": "#064F8C"
+  },
+  {
+    "title": "CNN",
+    "hex": "#CC0000"
+  },
+  {
+    "title": "Co-op",
+    "hex": "#00B1E7"
+  },
+  {
+    "title": "Cockroach Labs",
+    "hex": "#6933FF"
+  },
+  {
+    "title": "CocoaPods",
+    "hex": "#EE3322"
+  },
+  {
+    "title": "Cocos",
+    "hex": "#55C2E1"
+  },
+  {
+    "title": "Coda",
+    "hex": "#F46A54"
+  },
+  {
+    "title": "Codacy",
+    "hex": "#222F29"
+  },
+  {
+    "title": "Code Climate",
+    "hex": "#000000"
+  },
+  {
+    "title": "Codeberg",
+    "hex": "#2185D0"
+  },
+  {
+    "title": "Codecademy",
+    "hex": "#1F4056"
+  },
+  {
+    "title": "CodeceptJS",
+    "hex": "#F6E05E"
+  },
+  {
+    "title": "CodeChef",
+    "hex": "#5B4638"
+  },
+  {
+    "title": "Codecov",
+    "hex": "#F01F7A"
+  },
+  {
+    "title": "CodeFactor",
+    "hex": "#F44A6A"
+  },
+  {
+    "title": "Codeforces",
+    "hex": "#1F8ACB"
+  },
+  {
+    "title": "CodeIgniter",
+    "hex": "#EF4223"
+  },
+  {
+    "title": "Codemagic",
+    "hex": "#F45E3F"
+  },
+  {
+    "title": "CodeMirror",
+    "hex": "#D30707"
+  },
+  {
+    "title": "CodeNewbie",
+    "hex": "#6BD80B"
+  },
+  {
+    "title": "CodePen",
+    "hex": "#000000"
+  },
+  {
+    "title": "CodeProject",
+    "hex": "#FF9900"
+  },
+  {
+    "title": "CodersRank",
+    "hex": "#67A4AC"
+  },
+  {
+    "title": "Coderwall",
+    "hex": "#3E8DCC"
+  },
+  {
+    "title": "CodeSandbox",
+    "hex": "#000000"
+  },
+  {
+    "title": "Codeship",
+    "hex": "#004466"
+  },
+  {
+    "title": "Codewars",
+    "hex": "#B1361E"
+  },
+  {
+    "title": "Coding Ninjas",
+    "hex": "#DD6620"
+  },
+  {
+    "title": "CodinGame",
+    "hex": "#F2BB13"
+  },
+  {
+    "title": "Codio",
+    "hex": "#4574E0"
+  },
+  {
+    "title": "CoffeeScript",
+    "hex": "#2F2625"
+  },
+  {
+    "title": "Cognizant",
+    "hex": "#1A4CA1"
+  },
+  {
+    "title": "Coinbase",
+    "hex": "#0052FF"
+  },
+  {
+    "title": "Commerzbank",
+    "hex": "#FFCC33"
+  },
+  {
+    "title": "Common Workflow Language",
+    "hex": "#B5314C"
+  },
+  {
+    "title": "Composer",
+    "hex": "#885630"
+  },
+  {
+    "title": "Concourse",
+    "hex": "#3398DC"
+  },
+  {
+    "title": "Conda-Forge",
+    "hex": "#000000"
+  },
+  {
+    "title": "Conekta",
+    "hex": "#0A1837"
+  },
+  {
+    "title": "Confluence",
+    "hex": "#172B4D"
+  },
+  {
+    "title": "Construct 3",
+    "hex": "#00FFDA"
+  },
+  {
+    "title": "Consul",
+    "hex": "#F24C53"
+  },
+  {
+    "title": "Contactless Payment",
+    "hex": "#000000"
+  },
+  {
+    "title": "Contentful",
+    "hex": "#2478CC"
+  },
+  {
+    "title": "Convertio",
+    "hex": "#FF3333"
+  },
+  {
+    "title": "Cookiecutter",
+    "hex": "#D4AA00"
+  },
+  {
+    "title": "Corona Engine",
+    "hex": "#F96F29"
+  },
+  {
+    "title": "Corona Renderer",
+    "hex": "#E6502A"
+  },
+  {
+    "title": "Corsair",
+    "hex": "#000000"
+  },
+  {
+    "title": "Couchbase",
+    "hex": "#EA2328"
+  },
+  {
+    "title": "Counter-Strike",
+    "hex": "#000000"
+  },
+  {
+    "title": "CountingWorks PRO",
+    "hex": "#2E3084"
+  },
+  {
+    "title": "Coursera",
+    "hex": "#0056D2"
+  },
+  {
+    "title": "Coveralls",
+    "hex": "#3F5767"
+  },
+  {
+    "title": "cPanel",
+    "hex": "#FF6C2C"
+  },
+  {
+    "title": "Craft CMS",
+    "hex": "#E5422B"
+  },
+  {
+    "title": "Creative Commons",
+    "hex": "#EF9421"
+  },
+  {
+    "title": "Crehana",
+    "hex": "#4B22F4"
+  },
+  {
+    "title": "Crowdin",
+    "hex": "#2E3340"
+  },
+  {
+    "title": "Crowdsource",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Crunchbase",
+    "hex": "#0288D1"
+  },
+  {
+    "title": "Crunchyroll",
+    "hex": "#F47521"
+  },
+  {
+    "title": "CRYENGINE",
+    "hex": "#000000"
+  },
+  {
+    "title": "Crystal",
+    "hex": "#000000"
+  },
+  {
+    "title": "CSS Wizardry",
+    "hex": "#F43059"
+  },
+  {
+    "title": "CSS3",
+    "hex": "#1572B6"
+  },
+  {
+    "title": "Cucumber",
+    "hex": "#23D96C"
+  },
+  {
+    "title": "curl",
+    "hex": "#073551"
+  },
+  {
+    "title": "CurseForge",
+    "hex": "#6441A4"
+  },
+  {
+    "title": "Cycling '74",
+    "hex": "#111111"
+  },
+  {
+    "title": "Cypress",
+    "hex": "#17202C"
+  },
+  {
+    "title": "D-Wave Systems",
+    "hex": "#008CD7"
+  },
+  {
+    "title": "D3.js",
+    "hex": "#F9A03C"
+  },
+  {
+    "title": "Dacia",
+    "hex": "#122AFF"
+  },
+  {
+    "title": "DAF",
+    "hex": "#00529B"
+  },
+  {
+    "title": "Dailymotion",
+    "hex": "#0D0D0D"
+  },
+  {
+    "title": "Daimler",
+    "hex": "#E6E6E6"
+  },
+  {
+    "title": "Dark Reader",
+    "hex": "#141E24"
+  },
+  {
+    "title": "Dart",
+    "hex": "#0175C2"
+  },
+  {
+    "title": "Das Erste",
+    "hex": "#001A4B"
+  },
+  {
+    "title": "Dash",
+    "hex": "#008DE4"
+  },
+  {
+    "title": "Dashlane",
+    "hex": "#0E353D"
+  },
+  {
+    "title": "Dassault Systèmes",
+    "hex": "#005386"
+  },
+  {
+    "title": "Data Version Control",
+    "hex": "#945DD6"
+  },
+  {
+    "title": "Databricks",
+    "hex": "#FF3621"
+  },
+  {
+    "title": "DataCamp",
+    "hex": "#03EF62"
+  },
+  {
+    "title": "Datadog",
+    "hex": "#632CA6"
+  },
+  {
+    "title": "DataStax",
+    "hex": "#3A3A42"
+  },
+  {
+    "title": "DatoCMS",
+    "hex": "#FF7751"
+  },
+  {
+    "title": "Datto",
+    "hex": "#199ED9"
+  },
+  {
+    "title": "DAZN",
+    "hex": "#F8F8F5"
+  },
+  {
+    "title": "dblp",
+    "hex": "#004F9F"
+  },
+  {
+    "title": "dbt",
+    "hex": "#FF694B"
+  },
+  {
+    "title": "DC Entertainment",
+    "hex": "#0078F0"
+  },
+  {
+    "title": "De'Longhi",
+    "hex": "#072240"
+  },
+  {
+    "title": "Debian",
+    "hex": "#A81D33"
+  },
+  {
+    "title": "deepin",
+    "hex": "#007CFF"
+  },
+  {
+    "title": "Deepnote",
+    "hex": "#3793EF"
+  },
+  {
+    "title": "Deezer",
+    "hex": "#FEAA2D"
+  },
+  {
+    "title": "del.icio.us",
+    "hex": "#0000FF"
+  },
+  {
+    "title": "Deliveroo",
+    "hex": "#00CCBC"
+  },
+  {
+    "title": "Dell",
+    "hex": "#007DB8"
+  },
+  {
+    "title": "Delphi",
+    "hex": "#EE1F35"
+  },
+  {
+    "title": "Delta",
+    "hex": "#003366"
+  },
+  {
+    "title": "Deno",
+    "hex": "#000000"
+  },
+  {
+    "title": "Dependabot",
+    "hex": "#025E8C"
+  },
+  {
+    "title": "Der Spiegel",
+    "hex": "#E64415"
+  },
+  {
+    "title": "Designer News",
+    "hex": "#2D72D9"
+  },
+  {
+    "title": "Deutsche Bahn",
+    "hex": "#F01414"
+  },
+  {
+    "title": "Deutsche Bank",
+    "hex": "#0018A8"
+  },
+  {
+    "title": "dev.to",
+    "hex": "#0A0A0A"
+  },
+  {
+    "title": "DeviantArt",
+    "hex": "#05CC47"
+  },
+  {
+    "title": "Devpost",
+    "hex": "#003E54"
+  },
+  {
+    "title": "devRant",
+    "hex": "#F99A66"
+  },
+  {
+    "title": "Dgraph",
+    "hex": "#E50695"
+  },
+  {
+    "title": "DHL",
+    "hex": "#FFCC00"
+  },
+  {
+    "title": "diagrams.net",
+    "hex": "#F08705"
+  },
+  {
+    "title": "Dialogflow",
+    "hex": "#FF9800"
+  },
+  {
+    "title": "Diaspora",
+    "hex": "#000000"
+  },
+  {
+    "title": "Digg",
+    "hex": "#000000"
+  },
+  {
+    "title": "Digi-Key Electronics",
+    "hex": "#CC0000"
+  },
+  {
+    "title": "DigitalOcean",
+    "hex": "#0080FF"
+  },
+  {
+    "title": "Dior",
+    "hex": "#000000"
+  },
+  {
+    "title": "Directus",
+    "hex": "#263238"
+  },
+  {
+    "title": "Discogs",
+    "hex": "#333333"
+  },
+  {
+    "title": "Discord",
+    "hex": "#5865F2"
+  },
+  {
+    "title": "Discourse",
+    "hex": "#000000"
+  },
+  {
+    "title": "Discover",
+    "hex": "#FF6000"
+  },
+  {
+    "title": "Disqus",
+    "hex": "#2E9FFF"
+  },
+  {
+    "title": "Disroot",
+    "hex": "#50162D"
+  },
+  {
+    "title": "Django",
+    "hex": "#092E20"
+  },
+  {
+    "title": "DLNA",
+    "hex": "#48A842"
+  },
+  {
+    "title": "Docker",
+    "hex": "#2496ED"
+  },
+  {
+    "title": "DocuSign",
+    "hex": "#FFCC22"
+  },
+  {
+    "title": "Dogecoin",
+    "hex": "#C2A633"
+  },
+  {
+    "title": "Dolby",
+    "hex": "#000000"
+  },
+  {
+    "title": "DoorDash",
+    "hex": "#FF3008"
+  },
+  {
+    "title": "Douban",
+    "hex": "#007722"
+  },
+  {
+    "title": "Draugiem.lv",
+    "hex": "#FF6600"
+  },
+  {
+    "title": "Dribbble",
+    "hex": "#EA4C89"
+  },
+  {
+    "title": "Drone",
+    "hex": "#212121"
+  },
+  {
+    "title": "Drooble",
+    "hex": "#19C4BE"
+  },
+  {
+    "title": "Dropbox",
+    "hex": "#0061FF"
+  },
+  {
+    "title": "Drupal",
+    "hex": "#0678BE"
+  },
+  {
+    "title": "DS Automobiles",
+    "hex": "#1D1717"
+  },
+  {
+    "title": "DTube",
+    "hex": "#F01A30"
+  },
+  {
+    "title": "DuckDuckGo",
+    "hex": "#DE5833"
+  },
+  {
+    "title": "Dunked",
+    "hex": "#2DA9D7"
+  },
+  {
+    "title": "Duolingo",
+    "hex": "#58CC02"
+  },
+  {
+    "title": "dwm",
+    "hex": "#1177AA"
+  },
+  {
+    "title": "Dynamics 365",
+    "hex": "#002050"
+  },
+  {
+    "title": "Dynatrace",
+    "hex": "#1496FF"
+  },
+  {
+    "title": "EA",
+    "hex": "#000000"
+  },
+  {
+    "title": "Eagle",
+    "hex": "#0072EF"
+  },
+  {
+    "title": "easyJet",
+    "hex": "#FF6600"
+  },
+  {
+    "title": "eBay",
+    "hex": "#E53238"
+  },
+  {
+    "title": "Eclipse Che",
+    "hex": "#525C86"
+  },
+  {
+    "title": "Eclipse IDE",
+    "hex": "#2C2255"
+  },
+  {
+    "title": "Eclipse Jetty",
+    "hex": "#FC390E"
+  },
+  {
+    "title": "Eclipse Mosquitto",
+    "hex": "#3C5280"
+  },
+  {
+    "title": "Eclipse Vert.x",
+    "hex": "#782A90"
+  },
+  {
+    "title": "EditorConfig",
+    "hex": "#FEFEFE"
+  },
+  {
+    "title": "edX",
+    "hex": "#02262B"
+  },
+  {
+    "title": "egghead",
+    "hex": "#FCFBFA"
+  },
+  {
+    "title": "Egnyte",
+    "hex": "#00968F"
+  },
+  {
+    "title": "Eight Sleep",
+    "hex": "#262729"
+  },
+  {
+    "title": "El Jueves",
+    "hex": "#BE312E"
+  },
+  {
+    "title": "Elastic",
+    "hex": "#005571"
+  },
+  {
+    "title": "Elastic Cloud",
+    "hex": "#005571"
+  },
+  {
+    "title": "Elastic Stack",
+    "hex": "#005571"
+  },
+  {
+    "title": "Elasticsearch",
+    "hex": "#005571"
+  },
+  {
+    "title": "Electron",
+    "hex": "#47848F"
+  },
+  {
+    "title": "Element",
+    "hex": "#0DBD8B"
+  },
+  {
+    "title": "elementary",
+    "hex": "#64BAFF"
+  },
+  {
+    "title": "Eleventy",
+    "hex": "#000000"
+  },
+  {
+    "title": "Elixir",
+    "hex": "#4B275F"
+  },
+  {
+    "title": "Ello",
+    "hex": "#000000"
+  },
+  {
+    "title": "Elm",
+    "hex": "#1293D8"
+  },
+  {
+    "title": "Elsevier",
+    "hex": "#FF6C00"
+  },
+  {
+    "title": "Embarcadero",
+    "hex": "#ED1F35"
+  },
+  {
+    "title": "Ember.js",
+    "hex": "#E04E39"
+  },
+  {
+    "title": "Emby",
+    "hex": "#52B54B"
+  },
+  {
+    "title": "Emirates",
+    "hex": "#D71921"
+  },
+  {
+    "title": "Emlakjet",
+    "hex": "#0AE524"
+  },
+  {
+    "title": "Empire Kred",
+    "hex": "#72BE50"
+  },
+  {
+    "title": "Enpass",
+    "hex": "#0D47A1"
+  },
+  {
+    "title": "Envato",
+    "hex": "#81B441"
+  },
+  {
+    "title": "EPEL",
+    "hex": "#FC0000"
+  },
+  {
+    "title": "Epic Games",
+    "hex": "#313131"
+  },
+  {
+    "title": "Epson",
+    "hex": "#003399"
+  },
+  {
+    "title": "Erlang",
+    "hex": "#A90533"
+  },
+  {
+    "title": "ESEA",
+    "hex": "#0E9648"
+  },
+  {
+    "title": "ESLGaming",
+    "hex": "#FFFF09"
+  },
+  {
+    "title": "ESLint",
+    "hex": "#4B32C3"
+  },
+  {
+    "title": "ESPHome",
+    "hex": "#000000"
+  },
+  {
+    "title": "Espressif",
+    "hex": "#E7352C"
+  },
+  {
+    "title": "Ethereum",
+    "hex": "#3C3C3D"
+  },
+  {
+    "title": "Ethiopian Airlines",
+    "hex": "#648B1A"
+  },
+  {
+    "title": "Etihad Airways",
+    "hex": "#BD8B13"
+  },
+  {
+    "title": "Etsy",
+    "hex": "#F16521"
+  },
+  {
+    "title": "Event Store",
+    "hex": "#5AB552"
+  },
+  {
+    "title": "Eventbrite",
+    "hex": "#F05537"
+  },
+  {
+    "title": "Evernote",
+    "hex": "#00A82D"
+  },
+  {
+    "title": "Exercism",
+    "hex": "#009CAB"
+  },
+  {
+    "title": "Expensify",
+    "hex": "#0185FF"
+  },
+  {
+    "title": "Experts Exchange",
+    "hex": "#00AAE7"
+  },
+  {
+    "title": "Expo",
+    "hex": "#000020"
+  },
+  {
+    "title": "Express",
+    "hex": "#000000"
+  },
+  {
+    "title": "EyeEm",
+    "hex": "#000000"
+  },
+  {
+    "title": "F-Droid",
+    "hex": "#1976D2"
+  },
+  {
+    "title": "F-Secure",
+    "hex": "#00BAFF"
+  },
+  {
+    "title": "Facebook",
+    "hex": "#1877F2"
+  },
+  {
+    "title": "Facebook Gaming",
+    "hex": "#005FED"
+  },
+  {
+    "title": "Facebook Live",
+    "hex": "#ED4242"
+  },
+  {
+    "title": "FACEIT",
+    "hex": "#FF5500"
+  },
+  {
+    "title": "Facepunch",
+    "hex": "#EC1C24"
+  },
+  {
+    "title": "Falcon",
+    "hex": "#F0AD4E"
+  },
+  {
+    "title": "FamPay",
+    "hex": "#FFAD00"
+  },
+  {
+    "title": "Fandango",
+    "hex": "#FF7300"
+  },
+  {
+    "title": "Fandom",
+    "hex": "#00D6D6"
+  },
+  {
+    "title": "FARFETCH",
+    "hex": "#000000"
+  },
+  {
+    "title": "FastAPI",
+    "hex": "#009688"
+  },
+  {
+    "title": "Fastify",
+    "hex": "#000000"
+  },
+  {
+    "title": "Fastlane",
+    "hex": "#00F200"
+  },
+  {
+    "title": "Fastly",
+    "hex": "#FF282D"
+  },
+  {
+    "title": "Fathom",
+    "hex": "#9187FF"
+  },
+  {
+    "title": "Favro",
+    "hex": "#512DA8"
+  },
+  {
+    "title": "FeatHub",
+    "hex": "#9B9B9B"
+  },
+  {
+    "title": "FedEx",
+    "hex": "#4D148C"
+  },
+  {
+    "title": "Fedora",
+    "hex": "#294172"
+  },
+  {
+    "title": "Feedly",
+    "hex": "#2BB24C"
+  },
+  {
+    "title": "Ferrari",
+    "hex": "#D40000"
+  },
+  {
+    "title": "Ferrari N.V.",
+    "hex": "#EB2E2C"
+  },
+  {
+    "title": "FFmpeg",
+    "hex": "#007808"
+  },
+  {
+    "title": "Fiat",
+    "hex": "#941711"
+  },
+  {
+    "title": "Fido Alliance",
+    "hex": "#FFBF3B"
+  },
+  {
+    "title": "FIFA",
+    "hex": "#326295"
+  },
+  {
+    "title": "Figma",
+    "hex": "#F24E1E"
+  },
+  {
+    "title": "figshare",
+    "hex": "#556472"
+  },
+  {
+    "title": "Fila",
+    "hex": "#03234C"
+  },
+  {
+    "title": "Files",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "FileZilla",
+    "hex": "#BF0000"
+  },
+  {
+    "title": "Fing",
+    "hex": "#009AEE"
+  },
+  {
+    "title": "Firebase",
+    "hex": "#FFCA28"
+  },
+  {
+    "title": "Firefox",
+    "hex": "#FF7139"
+  },
+  {
+    "title": "Firefox Browser",
+    "hex": "#FF7139"
+  },
+  {
+    "title": "FIRST",
+    "hex": "#0066B3"
+  },
+  {
+    "title": "Fitbit",
+    "hex": "#00B0B9"
+  },
+  {
+    "title": "FITE",
+    "hex": "#CA0404"
+  },
+  {
+    "title": "Fiverr",
+    "hex": "#1DBF73"
+  },
+  {
+    "title": "Flask",
+    "hex": "#000000"
+  },
+  {
+    "title": "Flathub",
+    "hex": "#4A86CF"
+  },
+  {
+    "title": "Flattr",
+    "hex": "#000000"
+  },
+  {
+    "title": "Flickr",
+    "hex": "#0063DC"
+  },
+  {
+    "title": "Flipboard",
+    "hex": "#E12828"
+  },
+  {
+    "title": "Flipkart",
+    "hex": "#2874F0"
+  },
+  {
+    "title": "Floatplane",
+    "hex": "#00AEEF"
+  },
+  {
+    "title": "Flood",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Fluentd",
+    "hex": "#0E83C8"
+  },
+  {
+    "title": "Flutter",
+    "hex": "#02569B"
+  },
+  {
+    "title": "FMOD",
+    "hex": "#000000"
+  },
+  {
+    "title": "Fnac",
+    "hex": "#E1A925"
+  },
+  {
+    "title": "Folium",
+    "hex": "#77B829"
+  },
+  {
+    "title": "Font Awesome",
+    "hex": "#339AF0"
+  },
+  {
+    "title": "FontBase",
+    "hex": "#3D03A7"
+  },
+  {
+    "title": "foodpanda",
+    "hex": "#D70F64"
+  },
+  {
+    "title": "Ford",
+    "hex": "#00274E"
+  },
+  {
+    "title": "Forestry",
+    "hex": "#343A40"
+  },
+  {
+    "title": "Formstack",
+    "hex": "#21B573"
+  },
+  {
+    "title": "Fortinet",
+    "hex": "#EE3124"
+  },
+  {
+    "title": "Fortran",
+    "hex": "#734F96"
+  },
+  {
+    "title": "Fossa",
+    "hex": "#289E6D"
+  },
+  {
+    "title": "Fossil SCM",
+    "hex": "#548294"
+  },
+  {
+    "title": "Foursquare",
+    "hex": "#3333FF"
+  },
+  {
+    "title": "Foursquare City Guide",
+    "hex": "#F94877"
+  },
+  {
+    "title": "Foxtel",
+    "hex": "#EB5205"
+  },
+  {
+    "title": "Fozzy",
+    "hex": "#F15B29"
+  },
+  {
+    "title": "Framer",
+    "hex": "#0055FF"
+  },
+  {
+    "title": "Fraunhofer-Gesellschaft",
+    "hex": "#179C7D"
+  },
+  {
+    "title": "FreeBSD",
+    "hex": "#AB2B28"
+  },
+  {
+    "title": "freeCodeCamp",
+    "hex": "#0A0A23"
+  },
+  {
+    "title": "freedesktop.org",
+    "hex": "#3B80AE"
+  },
+  {
+    "title": "Freelancer",
+    "hex": "#29B2FE"
+  },
+  {
+    "title": "FreeNAS",
+    "hex": "#343434"
+  },
+  {
+    "title": "Fujifilm",
+    "hex": "#ED1A3A"
+  },
+  {
+    "title": "Fujitsu",
+    "hex": "#FF0000"
+  },
+  {
+    "title": "Fur Affinity",
+    "hex": "#36566F"
+  },
+  {
+    "title": "Furry Network",
+    "hex": "#2E75B4"
+  },
+  {
+    "title": "FutureLearn",
+    "hex": "#DE00A5"
+  },
+  {
+    "title": "G2A",
+    "hex": "#F05F00"
+  },
+  {
+    "title": "Game Jolt",
+    "hex": "#CCFF00"
+  },
+  {
+    "title": "Garmin",
+    "hex": "#000000"
+  },
+  {
+    "title": "Gatling",
+    "hex": "#FF9E2A"
+  },
+  {
+    "title": "Gatsby",
+    "hex": "#663399"
+  },
+  {
+    "title": "GeeksforGeeks",
+    "hex": "#2F8D46"
+  },
+  {
+    "title": "General Electric",
+    "hex": "#0870D8"
+  },
+  {
+    "title": "General Motors",
+    "hex": "#0170CE"
+  },
+  {
+    "title": "Genius",
+    "hex": "#FFFF64"
+  },
+  {
+    "title": "Gentoo",
+    "hex": "#54487A"
+  },
+  {
+    "title": "Geocaching",
+    "hex": "#00874D"
+  },
+  {
+    "title": "Gerrit",
+    "hex": "#EEEEEE"
+  },
+  {
+    "title": "Ghost",
+    "hex": "#15171A"
+  },
+  {
+    "title": "Ghostery",
+    "hex": "#00AEF0"
+  },
+  {
+    "title": "GIMP",
+    "hex": "#5C5543"
+  },
+  {
+    "title": "GIPHY",
+    "hex": "#FF6666"
+  },
+  {
+    "title": "Git",
+    "hex": "#F05032"
+  },
+  {
+    "title": "Git Extensions",
+    "hex": "#212121"
+  },
+  {
+    "title": "Git LFS",
+    "hex": "#F64935"
+  },
+  {
+    "title": "GitBook",
+    "hex": "#3884FF"
+  },
+  {
+    "title": "Gitea",
+    "hex": "#609926"
+  },
+  {
+    "title": "Gitee",
+    "hex": "#C71D23"
+  },
+  {
+    "title": "GitHub",
+    "hex": "#181717"
+  },
+  {
+    "title": "GitHub Actions",
+    "hex": "#2088FF"
+  },
+  {
+    "title": "GitHub Sponsors",
+    "hex": "#EA4AAA"
+  },
+  {
+    "title": "GitKraken",
+    "hex": "#179287"
+  },
+  {
+    "title": "GitLab",
+    "hex": "#FCA121"
+  },
+  {
+    "title": "Gitpod",
+    "hex": "#FFAE33"
+  },
+  {
+    "title": "Gitter",
+    "hex": "#ED1965"
+  },
+  {
+    "title": "Glassdoor",
+    "hex": "#0CAA41"
+  },
+  {
+    "title": "Glitch",
+    "hex": "#3333FF"
+  },
+  {
+    "title": "Gmail",
+    "hex": "#EA4335"
+  },
+  {
+    "title": "GNOME",
+    "hex": "#4A86CF"
+  },
+  {
+    "title": "GNU",
+    "hex": "#A42E2B"
+  },
+  {
+    "title": "GNU Bash",
+    "hex": "#4EAA25"
+  },
+  {
+    "title": "GNU Emacs",
+    "hex": "#7F5AB6"
+  },
+  {
+    "title": "GNU IceCat",
+    "hex": "#002F5B"
+  },
+  {
+    "title": "GNU Privacy Guard",
+    "hex": "#0093DD"
+  },
+  {
+    "title": "GNU social",
+    "hex": "#A22430"
+  },
+  {
+    "title": "Go",
+    "hex": "#00ADD8"
+  },
+  {
+    "title": "GoDaddy",
+    "hex": "#1BDBDB"
+  },
+  {
+    "title": "Godot Engine",
+    "hex": "#478CBF"
+  },
+  {
+    "title": "GoFundMe",
+    "hex": "#00B964"
+  },
+  {
+    "title": "GOG.com",
+    "hex": "#86328A"
+  },
+  {
+    "title": "GoldenLine",
+    "hex": "#FFE005"
+  },
+  {
+    "title": "Goodreads",
+    "hex": "#372213"
+  },
+  {
+    "title": "Google",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google Ads",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google AdSense",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google Analytics",
+    "hex": "#E37400"
+  },
+  {
+    "title": "Google Assistant",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google Calendar",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google Cardboard",
+    "hex": "#FF7143"
+  },
+  {
+    "title": "Google Cast",
+    "hex": "#1BB6F6"
+  },
+  {
+    "title": "Google Chat",
+    "hex": "#00AC47"
+  },
+  {
+    "title": "Google Chrome",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google Classroom",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google Cloud",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google Colab",
+    "hex": "#F9AB00"
+  },
+  {
+    "title": "Google Domains",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google Drive",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google Earth",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google Fit",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google Fonts",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google Hangouts",
+    "hex": "#0C9D58"
+  },
+  {
+    "title": "Google Keep",
+    "hex": "#FFBB00"
+  },
+  {
+    "title": "Google Lens",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google Maps",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google Meet",
+    "hex": "#00897B"
+  },
+  {
+    "title": "Google Messages",
+    "hex": "#1A73E8"
+  },
+  {
+    "title": "Google My Business",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google Nearby",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google News",
+    "hex": "#174EA6"
+  },
+  {
+    "title": "Google Optimize",
+    "hex": "#B366F6"
+  },
+  {
+    "title": "Google Pay",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google Photos",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google Play",
+    "hex": "#414141"
+  },
+  {
+    "title": "Google Podcasts",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google Scholar",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Google Search Console",
+    "hex": "#458CF5"
+  },
+  {
+    "title": "Google Sheets",
+    "hex": "#34A853"
+  },
+  {
+    "title": "Google Street View",
+    "hex": "#FEC111"
+  },
+  {
+    "title": "Google Tag Manager",
+    "hex": "#246FDB"
+  },
+  {
+    "title": "Google Translate",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "GoToMeeting",
+    "hex": "#F68D2E"
+  },
+  {
+    "title": "Gradle",
+    "hex": "#02303A"
+  },
+  {
+    "title": "Grafana",
+    "hex": "#F46800"
+  },
+  {
+    "title": "Grammarly",
+    "hex": "#15C39A"
+  },
+  {
+    "title": "GraphQL",
+    "hex": "#E434AA"
+  },
+  {
+    "title": "Grav",
+    "hex": "#221E1F"
+  },
+  {
+    "title": "Gravatar",
+    "hex": "#1E8CBE"
+  },
+  {
+    "title": "Graylog",
+    "hex": "#FF3633"
+  },
+  {
+    "title": "GreenSock",
+    "hex": "#88CE02"
+  },
+  {
+    "title": "Grid.ai",
+    "hex": "#78FF96"
+  },
+  {
+    "title": "Gridsome",
+    "hex": "#00A672"
+  },
+  {
+    "title": "Groupon",
+    "hex": "#53A318"
+  },
+  {
+    "title": "Grubhub",
+    "hex": "#F63440"
+  },
+  {
+    "title": "Grunt",
+    "hex": "#FAA918"
+  },
+  {
+    "title": "Guangzhou Metro",
+    "hex": "#C51935"
+  },
+  {
+    "title": "gulp",
+    "hex": "#CF4647"
+  },
+  {
+    "title": "Gumroad",
+    "hex": "#36A9AE"
+  },
+  {
+    "title": "Gumtree",
+    "hex": "#72EF36"
+  },
+  {
+    "title": "Gutenberg",
+    "hex": "#000000"
+  },
+  {
+    "title": "Habr",
+    "hex": "#65A3BE"
+  },
+  {
+    "title": "Hack Club",
+    "hex": "#EC3750"
+  },
+  {
+    "title": "Hack The Box",
+    "hex": "#9FEF00"
+  },
+  {
+    "title": "Hackaday",
+    "hex": "#1A1A1A"
+  },
+  {
+    "title": "HackerEarth",
+    "hex": "#2C3454"
+  },
+  {
+    "title": "HackerOne",
+    "hex": "#494649"
+  },
+  {
+    "title": "HackerRank",
+    "hex": "#00EA64"
+  },
+  {
+    "title": "Hackster",
+    "hex": "#2E9FE6"
+  },
+  {
+    "title": "Handshake",
+    "hex": "#FF2F1C"
+  },
+  {
+    "title": "Handshake",
+    "hex": "#000000"
+  },
+  {
+    "title": "HappyCow",
+    "hex": "#7C4EC4"
+  },
+  {
+    "title": "Harbor",
+    "hex": "#60B932"
+  },
+  {
+    "title": "Hashnode",
+    "hex": "#2962FF"
+  },
+  {
+    "title": "Haskell",
+    "hex": "#5D4F85"
+  },
+  {
+    "title": "Hasura",
+    "hex": "#1EB4D4"
+  },
+  {
+    "title": "Hatena Bookmark",
+    "hex": "#00A4DE"
+  },
+  {
+    "title": "haveibeenpwned",
+    "hex": "#2A6379"
+  },
+  {
+    "title": "Haxe",
+    "hex": "#EA8220"
+  },
+  {
+    "title": "HBO",
+    "hex": "#000000"
+  },
+  {
+    "title": "HCL",
+    "hex": "#006BB6"
+  },
+  {
+    "title": "Headspace",
+    "hex": "#F47D31"
+  },
+  {
+    "title": "HelloFresh",
+    "hex": "#99CC33"
+  },
+  {
+    "title": "Helly Hansen",
+    "hex": "#DA2128"
+  },
+  {
+    "title": "Helm",
+    "hex": "#0F1689"
+  },
+  {
+    "title": "HelpDesk",
+    "hex": "#FFD000"
+  },
+  {
+    "title": "HERE",
+    "hex": "#00AFAA"
+  },
+  {
+    "title": "Heroku",
+    "hex": "#430098"
+  },
+  {
+    "title": "Hexo",
+    "hex": "#0E83CD"
+  },
+  {
+    "title": "HEY",
+    "hex": "#5522FA"
+  },
+  {
+    "title": "Hibernate",
+    "hex": "#59666C"
+  },
+  {
+    "title": "Hilton",
+    "hex": "#124D97"
+  },
+  {
+    "title": "Hitachi",
+    "hex": "#E60027"
+  },
+  {
+    "title": "Hive",
+    "hex": "#FF7A00"
+  },
+  {
+    "title": "Hive",
+    "hex": "#E31337"
+  },
+  {
+    "title": "Home Assistant",
+    "hex": "#41BDF5"
+  },
+  {
+    "title": "Home Assistant Community Store",
+    "hex": "#41BDF5"
+  },
+  {
+    "title": "HomeAdvisor",
+    "hex": "#F68315"
+  },
+  {
+    "title": "Homebrew",
+    "hex": "#FBB040"
+  },
+  {
+    "title": "Homebridge",
+    "hex": "#491F59"
+  },
+  {
+    "title": "homify",
+    "hex": "#7DCDA3"
+  },
+  {
+    "title": "Honda",
+    "hex": "#E40521"
+  },
+  {
+    "title": "Hootsuite",
+    "hex": "#143059"
+  },
+  {
+    "title": "Hoppscotch",
+    "hex": "#31C48D"
+  },
+  {
+    "title": "Hotels.com",
+    "hex": "#D32F2F"
+  },
+  {
+    "title": "Hotjar",
+    "hex": "#FD3A5C"
+  },
+  {
+    "title": "Houdini",
+    "hex": "#FF4713"
+  },
+  {
+    "title": "Houzz",
+    "hex": "#4DBC15"
+  },
+  {
+    "title": "HP",
+    "hex": "#0096D6"
+  },
+  {
+    "title": "HTML Academy",
+    "hex": "#302683"
+  },
+  {
+    "title": "HTML5",
+    "hex": "#E34F26"
+  },
+  {
+    "title": "Huawei",
+    "hex": "#FF0000"
+  },
+  {
+    "title": "HubSpot",
+    "hex": "#FF7A59"
+  },
+  {
+    "title": "Hugo",
+    "hex": "#FF4088"
+  },
+  {
+    "title": "Hulu",
+    "hex": "#1CE783"
+  },
+  {
+    "title": "Humble Bundle",
+    "hex": "#CC2929"
+  },
+  {
+    "title": "Hungry Jack's",
+    "hex": "#D0021B"
+  },
+  {
+    "title": "Hurriyetemlak",
+    "hex": "#E02826"
+  },
+  {
+    "title": "Husqvarna",
+    "hex": "#273A60"
+  },
+  {
+    "title": "Hyper",
+    "hex": "#000000"
+  },
+  {
+    "title": "Hyperledger",
+    "hex": "#2F3134"
+  },
+  {
+    "title": "Hypothesis",
+    "hex": "#BD1C2B"
+  },
+  {
+    "title": "Hyundai",
+    "hex": "#002C5F"
+  },
+  {
+    "title": "Iata",
+    "hex": "#004E81"
+  },
+  {
+    "title": "iBeacon",
+    "hex": "#3D7EBB"
+  },
+  {
+    "title": "IBM",
+    "hex": "#052FAD"
+  },
+  {
+    "title": "IBM Watson",
+    "hex": "#BE95FF"
+  },
+  {
+    "title": "Icinga",
+    "hex": "#06062C"
+  },
+  {
+    "title": "iCloud",
+    "hex": "#3693F3"
+  },
+  {
+    "title": "IcoMoon",
+    "hex": "#825794"
+  },
+  {
+    "title": "ICON",
+    "hex": "#31B8BB"
+  },
+  {
+    "title": "Iconfinder",
+    "hex": "#1A1B1F"
+  },
+  {
+    "title": "Iconify",
+    "hex": "#1769AA"
+  },
+  {
+    "title": "IconJar",
+    "hex": "#16A5F3"
+  },
+  {
+    "title": "Icons8",
+    "hex": "#1FB141"
+  },
+  {
+    "title": "ICQ",
+    "hex": "#24FF00"
+  },
+  {
+    "title": "IEEE",
+    "hex": "#00629B"
+  },
+  {
+    "title": "iFixit",
+    "hex": "#0071CE"
+  },
+  {
+    "title": "iFood",
+    "hex": "#EA1D2C"
+  },
+  {
+    "title": "IFTTT",
+    "hex": "#000000"
+  },
+  {
+    "title": "iHeartRadio",
+    "hex": "#C6002B"
+  },
+  {
+    "title": "IKEA",
+    "hex": "#0058A3"
+  },
+  {
+    "title": "ImageJ",
+    "hex": "#00D8E0"
+  },
+  {
+    "title": "IMDb",
+    "hex": "#F5C518"
+  },
+  {
+    "title": "Imgur",
+    "hex": "#1BB76E"
+  },
+  {
+    "title": "Immer",
+    "hex": "#00E7C3"
+  },
+  {
+    "title": "Imou",
+    "hex": "#E89313"
+  },
+  {
+    "title": "Indeed",
+    "hex": "#003A9B"
+  },
+  {
+    "title": "Infiniti",
+    "hex": "#000000"
+  },
+  {
+    "title": "InfluxDB",
+    "hex": "#22ADF6"
+  },
+  {
+    "title": "Informatica",
+    "hex": "#FF4D00"
+  },
+  {
+    "title": "Infosys",
+    "hex": "#007CC3"
+  },
+  {
+    "title": "Ingress",
+    "hex": "#783CBD"
+  },
+  {
+    "title": "Inkscape",
+    "hex": "#000000"
+  },
+  {
+    "title": "Insomnia",
+    "hex": "#5849BE"
+  },
+  {
+    "title": "Instacart",
+    "hex": "#43B02A"
+  },
+  {
+    "title": "Instagram",
+    "hex": "#E4405F"
+  },
+  {
+    "title": "Instapaper",
+    "hex": "#1F1F1F"
+  },
+  {
+    "title": "Instructables",
+    "hex": "#FABF15"
+  },
+  {
+    "title": "Integromat",
+    "hex": "#2F8CBB"
+  },
+  {
+    "title": "Intel",
+    "hex": "#0071C5"
+  },
+  {
+    "title": "IntelliJ IDEA",
+    "hex": "#000000"
+  },
+  {
+    "title": "Intercom",
+    "hex": "#6AFDEF"
+  },
+  {
+    "title": "Internet Archive",
+    "hex": "#666666"
+  },
+  {
+    "title": "Internet Explorer",
+    "hex": "#0076D6"
+  },
+  {
+    "title": "Intigriti",
+    "hex": "#161A36"
+  },
+  {
+    "title": "InVision",
+    "hex": "#FF3366"
+  },
+  {
+    "title": "Invoice Ninja",
+    "hex": "#000000"
+  },
+  {
+    "title": "ioBroker",
+    "hex": "#3399CC"
+  },
+  {
+    "title": "Ionic",
+    "hex": "#3880FF"
+  },
+  {
+    "title": "iOS",
+    "hex": "#000000"
+  },
+  {
+    "title": "IOTA",
+    "hex": "#131F37"
+  },
+  {
+    "title": "IPFS",
+    "hex": "#65C2CB"
+  },
+  {
+    "title": "Issuu",
+    "hex": "#F36D5D"
+  },
+  {
+    "title": "Itch.io",
+    "hex": "#FA5C5C"
+  },
+  {
+    "title": "iTunes",
+    "hex": "#FB5BC5"
+  },
+  {
+    "title": "IVECO",
+    "hex": "#004994"
+  },
+  {
+    "title": "Jabber",
+    "hex": "#CC0000"
+  },
+  {
+    "title": "Jaguar",
+    "hex": "#FFFFFF"
+  },
+  {
+    "title": "Jamboard",
+    "hex": "#F37C20"
+  },
+  {
+    "title": "Jameson",
+    "hex": "#004027"
+  },
+  {
+    "title": "Jamstack",
+    "hex": "#F0047F"
+  },
+  {
+    "title": "Jasmine",
+    "hex": "#8A4182"
+  },
+  {
+    "title": "Java",
+    "hex": "#007396"
+  },
+  {
+    "title": "JavaScript",
+    "hex": "#F7DF1E"
+  },
+  {
+    "title": "JBL",
+    "hex": "#FF3300"
+  },
+  {
+    "title": "JCB",
+    "hex": "#0B4EA2"
+  },
+  {
+    "title": "Jeep",
+    "hex": "#000000"
+  },
+  {
+    "title": "Jekyll",
+    "hex": "#CC0000"
+  },
+  {
+    "title": "Jellyfin",
+    "hex": "#00A4DC"
+  },
+  {
+    "title": "Jenkins",
+    "hex": "#D24939"
+  },
+  {
+    "title": "Jenkins X",
+    "hex": "#73C3D5"
+  },
+  {
+    "title": "Jest",
+    "hex": "#C21325"
+  },
+  {
+    "title": "JET",
+    "hex": "#FBBA00"
+  },
+  {
+    "title": "JetBrains",
+    "hex": "#000000"
+  },
+  {
+    "title": "JFrog",
+    "hex": "#41BF47"
+  },
+  {
+    "title": "JFrog Bintray",
+    "hex": "#43A047"
+  },
+  {
+    "title": "Jinja",
+    "hex": "#B41717"
+  },
+  {
+    "title": "Jira",
+    "hex": "#0052CC"
+  },
+  {
+    "title": "Jira Software",
+    "hex": "#0052CC"
+  },
+  {
+    "title": "Jitsi",
+    "hex": "#97979A"
+  },
+  {
+    "title": "John Deere",
+    "hex": "#367C2B"
+  },
+  {
+    "title": "Joomla",
+    "hex": "#5091CD"
+  },
+  {
+    "title": "JPEG",
+    "hex": "#8A8A8A"
+  },
+  {
+    "title": "jQuery",
+    "hex": "#0769AD"
+  },
+  {
+    "title": "JR Group",
+    "hex": "#000000"
+  },
+  {
+    "title": "jsDelivr",
+    "hex": "#E84D3D"
+  },
+  {
+    "title": "JSFiddle",
+    "hex": "#0084FF"
+  },
+  {
+    "title": "JSON",
+    "hex": "#000000"
+  },
+  {
+    "title": "JSON Web Tokens",
+    "hex": "#000000"
+  },
+  {
+    "title": "JSS",
+    "hex": "#F7DF1E"
+  },
+  {
+    "title": "Julia",
+    "hex": "#9558B2"
+  },
+  {
+    "title": "Juniper Networks",
+    "hex": "#84B135"
+  },
+  {
+    "title": "JUnit5",
+    "hex": "#25A162"
+  },
+  {
+    "title": "Jupyter",
+    "hex": "#F37626"
+  },
+  {
+    "title": "Just Eat",
+    "hex": "#F36D00"
+  },
+  {
+    "title": "JustGiving",
+    "hex": "#AD29B6"
+  },
+  {
+    "title": "Kaggle",
+    "hex": "#20BEFF"
+  },
+  {
+    "title": "Kahoot!",
+    "hex": "#46178F"
+  },
+  {
+    "title": "KaiOS",
+    "hex": "#6F02B5"
+  },
+  {
+    "title": "Kakao",
+    "hex": "#FFCD00"
+  },
+  {
+    "title": "KakaoTalk",
+    "hex": "#FFCD00"
+  },
+  {
+    "title": "Kali Linux",
+    "hex": "#557C94"
+  },
+  {
+    "title": "Karlsruher Verkehrsverbund",
+    "hex": "#9B2321"
+  },
+  {
+    "title": "Kasa Smart",
+    "hex": "#4ACBD6"
+  },
+  {
+    "title": "KashFlow",
+    "hex": "#E5426E"
+  },
+  {
+    "title": "Kaspersky",
+    "hex": "#006D5C"
+  },
+  {
+    "title": "Katacoda",
+    "hex": "#F48220"
+  },
+  {
+    "title": "Katana",
+    "hex": "#000000"
+  },
+  {
+    "title": "Kaufland",
+    "hex": "#E10915"
+  },
+  {
+    "title": "KDE",
+    "hex": "#1D99F3"
+  },
+  {
+    "title": "Kdenlive",
+    "hex": "#527EB2"
+  },
+  {
+    "title": "KeePassXC",
+    "hex": "#6CAC4D"
+  },
+  {
+    "title": "Kentico",
+    "hex": "#F05A22"
+  },
+  {
+    "title": "Keras",
+    "hex": "#D00000"
+  },
+  {
+    "title": "Keybase",
+    "hex": "#33A0FF"
+  },
+  {
+    "title": "KeyCDN",
+    "hex": "#047AED"
+  },
+  {
+    "title": "Khan Academy",
+    "hex": "#14BF96"
+  },
+  {
+    "title": "Khronos Group",
+    "hex": "#CC3333"
+  },
+  {
+    "title": "Kia",
+    "hex": "#05141F"
+  },
+  {
+    "title": "Kibana",
+    "hex": "#005571"
+  },
+  {
+    "title": "Kickstarter",
+    "hex": "#05CE78"
+  },
+  {
+    "title": "Kik",
+    "hex": "#82BC23"
+  },
+  {
+    "title": "Kirby",
+    "hex": "#000000"
+  },
+  {
+    "title": "Kitsu",
+    "hex": "#FD755C"
+  },
+  {
+    "title": "Klarna",
+    "hex": "#FFB3C7"
+  },
+  {
+    "title": "KLM",
+    "hex": "#00A1DE"
+  },
+  {
+    "title": "Klook",
+    "hex": "#FF5722"
+  },
+  {
+    "title": "KnowledgeBase",
+    "hex": "#FFD000"
+  },
+  {
+    "title": "Known",
+    "hex": "#333333"
+  },
+  {
+    "title": "Ko-fi",
+    "hex": "#FF5E5B"
+  },
+  {
+    "title": "Kodi",
+    "hex": "#17B2E7"
+  },
+  {
+    "title": "Koding",
+    "hex": "#00B057"
+  },
+  {
+    "title": "Kofax",
+    "hex": "#00558C"
+  },
+  {
+    "title": "Komoot",
+    "hex": "#6AA127"
+  },
+  {
+    "title": "Kongregate",
+    "hex": "#990000"
+  },
+  {
+    "title": "Kotlin",
+    "hex": "#0095D5"
+  },
+  {
+    "title": "Krita",
+    "hex": "#3BABFF"
+  },
+  {
+    "title": "KTM",
+    "hex": "#FF6600"
+  },
+  {
+    "title": "Kubernetes",
+    "hex": "#326CE5"
+  },
+  {
+    "title": "Kubuntu",
+    "hex": "#0079C1"
+  },
+  {
+    "title": "Kyocera",
+    "hex": "#DF0522"
+  },
+  {
+    "title": "LabVIEW",
+    "hex": "#FFDB00"
+  },
+  {
+    "title": "Lada",
+    "hex": "#ED6B21"
+  },
+  {
+    "title": "Lamborghini",
+    "hex": "#DDB320"
+  },
+  {
+    "title": "Land Rover",
+    "hex": "#005A2B"
+  },
+  {
+    "title": "Laragon",
+    "hex": "#0E83CD"
+  },
+  {
+    "title": "Laravel",
+    "hex": "#FF2D20"
+  },
+  {
+    "title": "Laravel Horizon",
+    "hex": "#405263"
+  },
+  {
+    "title": "Laravel Nova",
+    "hex": "#252D37"
+  },
+  {
+    "title": "Last.fm",
+    "hex": "#D51007"
+  },
+  {
+    "title": "LastPass",
+    "hex": "#D32D27"
+  },
+  {
+    "title": "LaTeX",
+    "hex": "#008080"
+  },
+  {
+    "title": "Launchpad",
+    "hex": "#F8C300"
+  },
+  {
+    "title": "LBRY",
+    "hex": "#2F9176"
+  },
+  {
+    "title": "Leaflet",
+    "hex": "#199900"
+  },
+  {
+    "title": "Leanpub",
+    "hex": "#FFFFFF"
+  },
+  {
+    "title": "LeetCode",
+    "hex": "#FFA116"
+  },
+  {
+    "title": "Lenovo",
+    "hex": "#E2231A"
+  },
+  {
+    "title": "Less",
+    "hex": "#1D365D"
+  },
+  {
+    "title": "Let’s Encrypt",
+    "hex": "#003A70"
+  },
+  {
+    "title": "Letterboxd",
+    "hex": "#00D735"
+  },
+  {
+    "title": "LG",
+    "hex": "#A50034"
+  },
+  {
+    "title": "LGTM",
+    "hex": "#FFFFFF"
+  },
+  {
+    "title": "Liberapay",
+    "hex": "#F6C915"
+  },
+  {
+    "title": "Libraries.io",
+    "hex": "#337AB7"
+  },
+  {
+    "title": "LibraryThing",
+    "hex": "#251A15"
+  },
+  {
+    "title": "LibreOffice",
+    "hex": "#18A303"
+  },
+  {
+    "title": "libuv",
+    "hex": "#403C3D"
+  },
+  {
+    "title": "Lichess",
+    "hex": "#000000"
+  },
+  {
+    "title": "LIFX",
+    "hex": "#000000"
+  },
+  {
+    "title": "Lighthouse",
+    "hex": "#F44B21"
+  },
+  {
+    "title": "LINE",
+    "hex": "#00C300"
+  },
+  {
+    "title": "LineageOS",
+    "hex": "#167C80"
+  },
+  {
+    "title": "LinkedIn",
+    "hex": "#0A66C2"
+  },
+  {
+    "title": "Linktree",
+    "hex": "#39E09B"
+  },
+  {
+    "title": "Linode",
+    "hex": "#00A95C"
+  },
+  {
+    "title": "Linux",
+    "hex": "#FCC624"
+  },
+  {
+    "title": "Linux Containers",
+    "hex": "#333333"
+  },
+  {
+    "title": "Linux Foundation",
+    "hex": "#003366"
+  },
+  {
+    "title": "Linux Mint",
+    "hex": "#87CF3E"
+  },
+  {
+    "title": "Lion Air",
+    "hex": "#ED3237"
+  },
+  {
+    "title": "Lit",
+    "hex": "#324FFF"
+  },
+  {
+    "title": "Litecoin",
+    "hex": "#A6A9AA"
+  },
+  {
+    "title": "LiveChat",
+    "hex": "#FFD000"
+  },
+  {
+    "title": "LiveJournal",
+    "hex": "#00B0EA"
+  },
+  {
+    "title": "LLVM",
+    "hex": "#262D3A"
+  },
+  {
+    "title": "LMMS",
+    "hex": "#10B146"
+  },
+  {
+    "title": "Logitech",
+    "hex": "#00B8FC"
+  },
+  {
+    "title": "LogMeIn",
+    "hex": "#45B6F2"
+  },
+  {
+    "title": "Logstash",
+    "hex": "#005571"
+  },
+  {
+    "title": "Looker",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Loom",
+    "hex": "#625DF5"
+  },
+  {
+    "title": "Loop",
+    "hex": "#F29400"
+  },
+  {
+    "title": "Lospec",
+    "hex": "#EAEAEA"
+  },
+  {
+    "title": "LOT Polish Airlines",
+    "hex": "#11397E"
+  },
+  {
+    "title": "Lua",
+    "hex": "#2C2D72"
+  },
+  {
+    "title": "Lubuntu",
+    "hex": "#0068C8"
+  },
+  {
+    "title": "Lufthansa",
+    "hex": "#05164D"
+  },
+  {
+    "title": "Lumen",
+    "hex": "#E74430"
+  },
+  {
+    "title": "Lydia",
+    "hex": "#0180FF"
+  },
+  {
+    "title": "Lyft",
+    "hex": "#FF00BF"
+  },
+  {
+    "title": "MAAS",
+    "hex": "#E95420"
+  },
+  {
+    "title": "macOS",
+    "hex": "#000000"
+  },
+  {
+    "title": "Macy’s",
+    "hex": "#E21A2C"
+  },
+  {
+    "title": "Magento",
+    "hex": "#EE672F"
+  },
+  {
+    "title": "Magisk",
+    "hex": "#00AF9C"
+  },
+  {
+    "title": "Mail.Ru",
+    "hex": "#005FF9"
+  },
+  {
+    "title": "MailChimp",
+    "hex": "#FFE01B"
+  },
+  {
+    "title": "Major League Hacking",
+    "hex": "#265A8F"
+  },
+  {
+    "title": "MakerBot",
+    "hex": "#FF1E0D"
+  },
+  {
+    "title": "MAN",
+    "hex": "#E40045"
+  },
+  {
+    "title": "ManageIQ",
+    "hex": "#EF2929"
+  },
+  {
+    "title": "Manjaro",
+    "hex": "#35BF5C"
+  },
+  {
+    "title": "Mapbox",
+    "hex": "#000000"
+  },
+  {
+    "title": "MariaDB",
+    "hex": "#003545"
+  },
+  {
+    "title": "MariaDB Foundation",
+    "hex": "#1F305F"
+  },
+  {
+    "title": "Markdown",
+    "hex": "#000000"
+  },
+  {
+    "title": "Marketo",
+    "hex": "#5C4C9F"
+  },
+  {
+    "title": "Marriott",
+    "hex": "#A70023"
+  },
+  {
+    "title": "Maserati",
+    "hex": "#0C2340"
+  },
+  {
+    "title": "MasterCard",
+    "hex": "#EB001B"
+  },
+  {
+    "title": "mastercomfig",
+    "hex": "#009688"
+  },
+  {
+    "title": "Mastodon",
+    "hex": "#3088D4"
+  },
+  {
+    "title": "Material Design",
+    "hex": "#757575"
+  },
+  {
+    "title": "Material Design Icons",
+    "hex": "#2196F3"
+  },
+  {
+    "title": "Material-UI",
+    "hex": "#0081CB"
+  },
+  {
+    "title": "Matomo",
+    "hex": "#3152A0"
+  },
+  {
+    "title": "Matrix",
+    "hex": "#000000"
+  },
+  {
+    "title": "Mattermost",
+    "hex": "#0058CC"
+  },
+  {
+    "title": "Matternet",
+    "hex": "#261C29"
+  },
+  {
+    "title": "Max",
+    "hex": "#525252"
+  },
+  {
+    "title": "Max-Planck-Gesellschaft",
+    "hex": "#006C66"
+  },
+  {
+    "title": "Maytag",
+    "hex": "#002E5F"
+  },
+  {
+    "title": "Mazda",
+    "hex": "#101010"
+  },
+  {
+    "title": "McAfee",
+    "hex": "#C01818"
+  },
+  {
+    "title": "McDonald's",
+    "hex": "#FBC817"
+  },
+  {
+    "title": "McLaren",
+    "hex": "#FF0000"
+  },
+  {
+    "title": "MDN Web Docs",
+    "hex": "#000000"
+  },
+  {
+    "title": "MediaFire",
+    "hex": "#1299F3"
+  },
+  {
+    "title": "MediaTek",
+    "hex": "#EC9430"
+  },
+  {
+    "title": "MediaTemple",
+    "hex": "#000000"
+  },
+  {
+    "title": "Medium",
+    "hex": "#000000"
+  },
+  {
+    "title": "Meetup",
+    "hex": "#ED1C40"
+  },
+  {
+    "title": "MEGA",
+    "hex": "#D9272E"
+  },
+  {
+    "title": "Mendeley",
+    "hex": "#9D1620"
+  },
+  {
+    "title": "Mercedes",
+    "hex": "#242424"
+  },
+  {
+    "title": "Mercurial",
+    "hex": "#999999"
+  },
+  {
+    "title": "Messenger",
+    "hex": "#00B2FF"
+  },
+  {
+    "title": "Metabase",
+    "hex": "#509EE3"
+  },
+  {
+    "title": "MetaFilter",
+    "hex": "#065A8F"
+  },
+  {
+    "title": "Meteor",
+    "hex": "#DE4F4F"
+  },
+  {
+    "title": "Metro",
+    "hex": "#EF4242"
+  },
+  {
+    "title": "Metro de la Ciudad de México",
+    "hex": "#F77E1C"
+  },
+  {
+    "title": "Metro de Madrid",
+    "hex": "#255E9C"
+  },
+  {
+    "title": "Métro de Paris",
+    "hex": "#003E95"
+  },
+  {
+    "title": "MeWe",
+    "hex": "#17377F"
+  },
+  {
+    "title": "micro:bit",
+    "hex": "#00ED00"
+  },
+  {
+    "title": "Micro.blog",
+    "hex": "#FF8800"
+  },
+  {
+    "title": "Microgenetics",
+    "hex": "#FF0000"
+  },
+  {
+    "title": "MicroPython",
+    "hex": "#2B2728"
+  },
+  {
+    "title": "Microsoft",
+    "hex": "#5E5E5E"
+  },
+  {
+    "title": "Microsoft Academic",
+    "hex": "#2D9FD9"
+  },
+  {
+    "title": "Microsoft Access",
+    "hex": "#A4373A"
+  },
+  {
+    "title": "Microsoft Azure",
+    "hex": "#0078D4"
+  },
+  {
+    "title": "Microsoft Bing",
+    "hex": "#258FFA"
+  },
+  {
+    "title": "Microsoft Edge",
+    "hex": "#0078D7"
+  },
+  {
+    "title": "Microsoft Excel",
+    "hex": "#217346"
+  },
+  {
+    "title": "Microsoft Exchange",
+    "hex": "#0078D4"
+  },
+  {
+    "title": "Microsoft Office",
+    "hex": "#D83B01"
+  },
+  {
+    "title": "Microsoft OneDrive",
+    "hex": "#0078D4"
+  },
+  {
+    "title": "Microsoft OneNote",
+    "hex": "#7719AA"
+  },
+  {
+    "title": "Microsoft Outlook",
+    "hex": "#0078D4"
+  },
+  {
+    "title": "Microsoft PowerPoint",
+    "hex": "#B7472A"
+  },
+  {
+    "title": "Microsoft SharePoint",
+    "hex": "#0078D4"
+  },
+  {
+    "title": "Microsoft SQL Server",
+    "hex": "#CC2927"
+  },
+  {
+    "title": "Microsoft Teams",
+    "hex": "#6264A7"
+  },
+  {
+    "title": "Microsoft Visio",
+    "hex": "#3955A3"
+  },
+  {
+    "title": "Microsoft Word",
+    "hex": "#2B579A"
+  },
+  {
+    "title": "MicroStrategy",
+    "hex": "#D9232E"
+  },
+  {
+    "title": "MIDI",
+    "hex": "#000000"
+  },
+  {
+    "title": "Minds",
+    "hex": "#FED12F"
+  },
+  {
+    "title": "Minecraft",
+    "hex": "#62B47A"
+  },
+  {
+    "title": "Minetest",
+    "hex": "#53AC56"
+  },
+  {
+    "title": "Mini",
+    "hex": "#000000"
+  },
+  {
+    "title": "Minutemailer",
+    "hex": "#30B980"
+  },
+  {
+    "title": "Miro",
+    "hex": "#050038"
+  },
+  {
+    "title": "Mitsubishi",
+    "hex": "#E60012"
+  },
+  {
+    "title": "Mix",
+    "hex": "#FF8126"
+  },
+  {
+    "title": "Mixcloud",
+    "hex": "#5000FF"
+  },
+  {
+    "title": "MobX",
+    "hex": "#FF9955"
+  },
+  {
+    "title": "MobX-State-Tree",
+    "hex": "#FF7102"
+  },
+  {
+    "title": "Mocha",
+    "hex": "#8D6748"
+  },
+  {
+    "title": "MODX",
+    "hex": "#102C53"
+  },
+  {
+    "title": "Mojang Studios",
+    "hex": "#EF323D"
+  },
+  {
+    "title": "Moleculer",
+    "hex": "#3CAFCE"
+  },
+  {
+    "title": "Momenteo",
+    "hex": "#5A6AB1"
+  },
+  {
+    "title": "Monero",
+    "hex": "#FF6600"
+  },
+  {
+    "title": "MongoDB",
+    "hex": "#47A248"
+  },
+  {
+    "title": "monkey tie",
+    "hex": "#1A52C2"
+  },
+  {
+    "title": "Monster",
+    "hex": "#6D4C9F"
+  },
+  {
+    "title": "Monzo",
+    "hex": "#14233C"
+  },
+  {
+    "title": "Moo",
+    "hex": "#00945E"
+  },
+  {
+    "title": "Moscow Metro",
+    "hex": "#D9232E"
+  },
+  {
+    "title": "Motorola",
+    "hex": "#E1140A"
+  },
+  {
+    "title": "Mozilla",
+    "hex": "#000000"
+  },
+  {
+    "title": "MTA",
+    "hex": "#0039A6"
+  },
+  {
+    "title": "MTR",
+    "hex": "#AC2E45"
+  },
+  {
+    "title": "Mumble",
+    "hex": "#FFFFFF"
+  },
+  {
+    "title": "MuseScore",
+    "hex": "#1A70B8"
+  },
+  {
+    "title": "MusicBrainz",
+    "hex": "#BA478F"
+  },
+  {
+    "title": "MX Linux",
+    "hex": "#000000"
+  },
+  {
+    "title": "MyAnimeList",
+    "hex": "#2E51A2"
+  },
+  {
+    "title": "MYOB",
+    "hex": "#6100A5"
+  },
+  {
+    "title": "Myspace",
+    "hex": "#030303"
+  },
+  {
+    "title": "MySQL",
+    "hex": "#4479A1"
+  },
+  {
+    "title": "N26",
+    "hex": "#48AC98"
+  },
+  {
+    "title": "Namebase",
+    "hex": "#0068FF"
+  },
+  {
+    "title": "Namecheap",
+    "hex": "#DE3723"
+  },
+  {
+    "title": "Nano",
+    "hex": "#4A90E2"
+  },
+  {
+    "title": "NASA",
+    "hex": "#E03C31"
+  },
+  {
+    "title": "National Grid",
+    "hex": "#00148C"
+  },
+  {
+    "title": "NativeScript",
+    "hex": "#3655FF"
+  },
+  {
+    "title": "Naver",
+    "hex": "#03C75A"
+  },
+  {
+    "title": "NBA",
+    "hex": "#253B73"
+  },
+  {
+    "title": "NBB",
+    "hex": "#FF7100"
+  },
+  {
+    "title": "NDR",
+    "hex": "#0C1754"
+  },
+  {
+    "title": "NEC",
+    "hex": "#1414A0"
+  },
+  {
+    "title": "Neo4j",
+    "hex": "#008CC1"
+  },
+  {
+    "title": "Neovim",
+    "hex": "#57A143"
+  },
+  {
+    "title": "NestJS",
+    "hex": "#E0234E"
+  },
+  {
+    "title": "NetApp",
+    "hex": "#0067C5"
+  },
+  {
+    "title": "Netflix",
+    "hex": "#E50914"
+  },
+  {
+    "title": "Netlify",
+    "hex": "#00C7B7"
+  },
+  {
+    "title": "New Japan Pro-Wrestling",
+    "hex": "#FF160B"
+  },
+  {
+    "title": "New Relic",
+    "hex": "#008C99"
+  },
+  {
+    "title": "New York Times",
+    "hex": "#000000"
+  },
+  {
+    "title": "Next.js",
+    "hex": "#000000"
+  },
+  {
+    "title": "Nextcloud",
+    "hex": "#0082C9"
+  },
+  {
+    "title": "Nextdoor",
+    "hex": "#8ED500"
+  },
+  {
+    "title": "NFC",
+    "hex": "#002E5F"
+  },
+  {
+    "title": "NGINX",
+    "hex": "#009639"
+  },
+  {
+    "title": "ngrok",
+    "hex": "#1F1E37"
+  },
+  {
+    "title": "niconico",
+    "hex": "#231815"
+  },
+  {
+    "title": "Nim",
+    "hex": "#FFE953"
+  },
+  {
+    "title": "Nintendo",
+    "hex": "#8F8F8F"
+  },
+  {
+    "title": "Nintendo 3DS",
+    "hex": "#D12228"
+  },
+  {
+    "title": "Nintendo GameCube",
+    "hex": "#6A5FBB"
+  },
+  {
+    "title": "Nintendo Network",
+    "hex": "#FF7D00"
+  },
+  {
+    "title": "Nintendo Switch",
+    "hex": "#E60012"
+  },
+  {
+    "title": "Nissan",
+    "hex": "#C3002F"
+  },
+  {
+    "title": "NixOS",
+    "hex": "#5277C3"
+  },
+  {
+    "title": "Node-RED",
+    "hex": "#8F0000"
+  },
+  {
+    "title": "Node.js",
+    "hex": "#339933"
+  },
+  {
+    "title": "Nodemon",
+    "hex": "#76D04B"
+  },
+  {
+    "title": "Nokia",
+    "hex": "#124191"
+  },
+  {
+    "title": "Norwegian",
+    "hex": "#D81939"
+  },
+  {
+    "title": "Notepad++",
+    "hex": "#90E59A"
+  },
+  {
+    "title": "Notion",
+    "hex": "#000000"
+  },
+  {
+    "title": "Notist",
+    "hex": "#333333"
+  },
+  {
+    "title": "Noun Project",
+    "hex": "#000000"
+  },
+  {
+    "title": "npm",
+    "hex": "#CB3837"
+  },
+  {
+    "title": "Nrwl",
+    "hex": "#96D7E8"
+  },
+  {
+    "title": "Nubank",
+    "hex": "#820AD1"
+  },
+  {
+    "title": "Nucleo",
+    "hex": "#252B2D"
+  },
+  {
+    "title": "NuGet",
+    "hex": "#004880"
+  },
+  {
+    "title": "Nuke",
+    "hex": "#000000"
+  },
+  {
+    "title": "Numba",
+    "hex": "#00A3E0"
+  },
+  {
+    "title": "NumPy",
+    "hex": "#013243"
+  },
+  {
+    "title": "Nutanix",
+    "hex": "#024DA1"
+  },
+  {
+    "title": "Nuxt.js",
+    "hex": "#00C58E"
+  },
+  {
+    "title": "NVIDIA",
+    "hex": "#76B900"
+  },
+  {
+    "title": "Nx",
+    "hex": "#143055"
+  },
+  {
+    "title": "OBS Studio",
+    "hex": "#302E31"
+  },
+  {
+    "title": "Observable",
+    "hex": "#353E58"
+  },
+  {
+    "title": "OCaml",
+    "hex": "#EC6813"
+  },
+  {
+    "title": "Octave",
+    "hex": "#0790C0"
+  },
+  {
+    "title": "Octopus Deploy",
+    "hex": "#2F93E0"
+  },
+  {
+    "title": "Oculus",
+    "hex": "#1C1E20"
+  },
+  {
+    "title": "Odnoklassniki",
+    "hex": "#EE8208"
+  },
+  {
+    "title": "Odysee",
+    "hex": "#EF1970"
+  },
+  {
+    "title": "okcupid",
+    "hex": "#0500BE"
+  },
+  {
+    "title": "Okta",
+    "hex": "#007DC1"
+  },
+  {
+    "title": "OnePlus",
+    "hex": "#F5010C"
+  },
+  {
+    "title": "OnlyFans",
+    "hex": "#00AFF0"
+  },
+  {
+    "title": "ONNX",
+    "hex": "#005CED"
+  },
+  {
+    "title": "OnStar",
+    "hex": "#003D7D"
+  },
+  {
+    "title": "Opel",
+    "hex": "#F7FF14"
+  },
+  {
+    "title": "Open Access",
+    "hex": "#F68212"
+  },
+  {
+    "title": "Open Badges",
+    "hex": "#073B5A"
+  },
+  {
+    "title": "Open Bug Bounty",
+    "hex": "#F67909"
+  },
+  {
+    "title": "Open Collective",
+    "hex": "#7FADF2"
+  },
+  {
+    "title": "Open Containers Initiative",
+    "hex": "#262261"
+  },
+  {
+    "title": "Open Source Initiative",
+    "hex": "#3DA639"
+  },
+  {
+    "title": "OpenAI",
+    "hex": "#412991"
+  },
+  {
+    "title": "OpenAI Gym",
+    "hex": "#0081A5"
+  },
+  {
+    "title": "OpenAPI Initiative",
+    "hex": "#6BA539"
+  },
+  {
+    "title": "OpenBSD",
+    "hex": "#F2CA30"
+  },
+  {
+    "title": "OpenCV",
+    "hex": "#5C3EE8"
+  },
+  {
+    "title": "OpenFaaS",
+    "hex": "#3B5EE9"
+  },
+  {
+    "title": "OpenGL",
+    "hex": "#5586A4"
+  },
+  {
+    "title": "OpenID",
+    "hex": "#F78C40"
+  },
+  {
+    "title": "Openlayers",
+    "hex": "#1F6B75"
+  },
+  {
+    "title": "OpenNebula",
+    "hex": "#0097C2"
+  },
+  {
+    "title": "OpenSSL",
+    "hex": "#721412"
+  },
+  {
+    "title": "OpenStack",
+    "hex": "#ED1944"
+  },
+  {
+    "title": "OpenStreetMap",
+    "hex": "#7EBC6F"
+  },
+  {
+    "title": "openSUSE",
+    "hex": "#73BA25"
+  },
+  {
+    "title": "OpenVPN",
+    "hex": "#EA7E20"
+  },
+  {
+    "title": "OpenWrt",
+    "hex": "#00B5E2"
+  },
+  {
+    "title": "Opera",
+    "hex": "#FF1B2D"
+  },
+  {
+    "title": "OPNSense",
+    "hex": "#D94F00"
+  },
+  {
+    "title": "Opsgenie",
+    "hex": "#172B4D"
+  },
+  {
+    "title": "OpsLevel",
+    "hex": "#1890FF"
+  },
+  {
+    "title": "Oracle",
+    "hex": "#F80000"
+  },
+  {
+    "title": "ORCID",
+    "hex": "#A6CE39"
+  },
+  {
+    "title": "Org",
+    "hex": "#77AA99"
+  },
+  {
+    "title": "Origin",
+    "hex": "#F56C2D"
+  },
+  {
+    "title": "Osano",
+    "hex": "#7764FA"
+  },
+  {
+    "title": "Oshkosh",
+    "hex": "#E6830F"
+  },
+  {
+    "title": "OSMC",
+    "hex": "#17394A"
+  },
+  {
+    "title": "osu!",
+    "hex": "#FF66AA"
+  },
+  {
+    "title": "Overcast",
+    "hex": "#FC7E0F"
+  },
+  {
+    "title": "Overleaf",
+    "hex": "#47A141"
+  },
+  {
+    "title": "OVH",
+    "hex": "#123F6D"
+  },
+  {
+    "title": "OWASP",
+    "hex": "#000000"
+  },
+  {
+    "title": "Oxygen",
+    "hex": "#3A209E"
+  },
+  {
+    "title": "OYO",
+    "hex": "#EE2E24"
+  },
+  {
+    "title": "p5.js",
+    "hex": "#ED225D"
+  },
+  {
+    "title": "Packagist",
+    "hex": "#F28D1A"
+  },
+  {
+    "title": "Paddy Power",
+    "hex": "#004833"
+  },
+  {
+    "title": "Pagekit",
+    "hex": "#212121"
+  },
+  {
+    "title": "PagerDuty",
+    "hex": "#06AC38"
+  },
+  {
+    "title": "PageSpeed Insights",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "PagSeguro",
+    "hex": "#FFC801"
+  },
+  {
+    "title": "Palantir",
+    "hex": "#101113"
+  },
+  {
+    "title": "Palo Alto Software",
+    "hex": "#83DA77"
+  },
+  {
+    "title": "pandas",
+    "hex": "#150458"
+  },
+  {
+    "title": "Pandora",
+    "hex": "#224099"
+  },
+  {
+    "title": "Pantheon",
+    "hex": "#FFDC28"
+  },
+  {
+    "title": "Parity Substrate",
+    "hex": "#282828"
+  },
+  {
+    "title": "Parse.ly",
+    "hex": "#5BA745"
+  },
+  {
+    "title": "Passport",
+    "hex": "#34E27A"
+  },
+  {
+    "title": "Pastebin",
+    "hex": "#02456C"
+  },
+  {
+    "title": "Patreon",
+    "hex": "#FF424D"
+  },
+  {
+    "title": "Payoneer",
+    "hex": "#FF4800"
+  },
+  {
+    "title": "PayPal",
+    "hex": "#00457C"
+  },
+  {
+    "title": "Paytm",
+    "hex": "#20336B"
+  },
+  {
+    "title": "PCGamingWiki",
+    "hex": "#556DB3"
+  },
+  {
+    "title": "PeerTube",
+    "hex": "#F1680D"
+  },
+  {
+    "title": "Pegasus Airlines",
+    "hex": "#FDC43E"
+  },
+  {
+    "title": "Pelican",
+    "hex": "#14A0C4"
+  },
+  {
+    "title": "Peloton",
+    "hex": "#181A1D"
+  },
+  {
+    "title": "Pepsi",
+    "hex": "#2151A1"
+  },
+  {
+    "title": "Perforce",
+    "hex": "#404040"
+  },
+  {
+    "title": "Perl",
+    "hex": "#39457E"
+  },
+  {
+    "title": "Peugeot",
+    "hex": "#000000"
+  },
+  {
+    "title": "Pexels",
+    "hex": "#05A081"
+  },
+  {
+    "title": "pfSense",
+    "hex": "#212121"
+  },
+  {
+    "title": "Phabricator",
+    "hex": "#4A5F88"
+  },
+  {
+    "title": "Philips Hue",
+    "hex": "#0065D3"
+  },
+  {
+    "title": "PhonePe",
+    "hex": "#5F259F"
+  },
+  {
+    "title": "Photobucket",
+    "hex": "#0672CB"
+  },
+  {
+    "title": "Photocrowd",
+    "hex": "#3DAD4B"
+  },
+  {
+    "title": "Photopea",
+    "hex": "#18A497"
+  },
+  {
+    "title": "PHP",
+    "hex": "#777BB4"
+  },
+  {
+    "title": "PhpStorm",
+    "hex": "#000000"
+  },
+  {
+    "title": "Pi-hole",
+    "hex": "#96060C"
+  },
+  {
+    "title": "Picarto.TV",
+    "hex": "#1DA456"
+  },
+  {
+    "title": "Picnic",
+    "hex": "#E1171E"
+  },
+  {
+    "title": "PicPay",
+    "hex": "#21C25E"
+  },
+  {
+    "title": "Pimcore",
+    "hex": "#6428B4"
+  },
+  {
+    "title": "Pinboard",
+    "hex": "#0000FF"
+  },
+  {
+    "title": "Pingdom",
+    "hex": "#FFF000"
+  },
+  {
+    "title": "Pinterest",
+    "hex": "#BD081C"
+  },
+  {
+    "title": "Pioneer DJ",
+    "hex": "#1A1928"
+  },
+  {
+    "title": "Pivotal Tracker",
+    "hex": "#517A9E"
+  },
+  {
+    "title": "Piwigo",
+    "hex": "#FF7700"
+  },
+  {
+    "title": "Pixabay",
+    "hex": "#2EC66D"
+  },
+  {
+    "title": "pixiv",
+    "hex": "#0096FA"
+  },
+  {
+    "title": "PJSIP",
+    "hex": "#F86001"
+  },
+  {
+    "title": "Planet",
+    "hex": "#009DB1"
+  },
+  {
+    "title": "PlanGrid",
+    "hex": "#0085DE"
+  },
+  {
+    "title": "Platform.sh",
+    "hex": "#1A182A"
+  },
+  {
+    "title": "Platzi",
+    "hex": "#98CA3F"
+  },
+  {
+    "title": "PlayCanvas",
+    "hex": "#E05F2C"
+  },
+  {
+    "title": "Player FM",
+    "hex": "#C8122A"
+  },
+  {
+    "title": "Player.me",
+    "hex": "#C0379A"
+  },
+  {
+    "title": "PlayStation",
+    "hex": "#003791"
+  },
+  {
+    "title": "PlayStation 2",
+    "hex": "#003791"
+  },
+  {
+    "title": "PlayStation 3",
+    "hex": "#003791"
+  },
+  {
+    "title": "PlayStation 4",
+    "hex": "#003791"
+  },
+  {
+    "title": "PlayStation 5",
+    "hex": "#003791"
+  },
+  {
+    "title": "PlayStation Vita",
+    "hex": "#003791"
+  },
+  {
+    "title": "Pleroma",
+    "hex": "#FBA457"
+  },
+  {
+    "title": "Plesk",
+    "hex": "#52BBE6"
+  },
+  {
+    "title": "Plex",
+    "hex": "#E5A00D"
+  },
+  {
+    "title": "Plotly",
+    "hex": "#3F4F75"
+  },
+  {
+    "title": "Pluralsight",
+    "hex": "#F15B2A"
+  },
+  {
+    "title": "Plurk",
+    "hex": "#FF574D"
+  },
+  {
+    "title": "Plus Codes",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "PM2",
+    "hex": "#2B037A"
+  },
+  {
+    "title": "pnpm",
+    "hex": "#F69220"
+  },
+  {
+    "title": "Pocket",
+    "hex": "#EF3F56"
+  },
+  {
+    "title": "Pocket Casts",
+    "hex": "#F43E37"
+  },
+  {
+    "title": "Podcast Addict",
+    "hex": "#F4842D"
+  },
+  {
+    "title": "Podman",
+    "hex": "#892CA0"
+  },
+  {
+    "title": "Pointy",
+    "hex": "#009DE0"
+  },
+  {
+    "title": "Pokémon",
+    "hex": "#FFCB05"
+  },
+  {
+    "title": "Poly",
+    "hex": "#EB3C00"
+  },
+  {
+    "title": "Polymer Project",
+    "hex": "#FF4470"
+  },
+  {
+    "title": "Polywork",
+    "hex": "#543DE0"
+  },
+  {
+    "title": "Pop!_OS",
+    "hex": "#48B9C7"
+  },
+  {
+    "title": "Porsche",
+    "hex": "#B12B28"
+  },
+  {
+    "title": "Portainer",
+    "hex": "#13BEF9"
+  },
+  {
+    "title": "PostCSS",
+    "hex": "#DD3A0A"
+  },
+  {
+    "title": "PostgreSQL",
+    "hex": "#4169E1"
+  },
+  {
+    "title": "Postman",
+    "hex": "#FF6C37"
+  },
+  {
+    "title": "Postmates",
+    "hex": "#FFDF18"
+  },
+  {
+    "title": "Power BI",
+    "hex": "#F2C811"
+  },
+  {
+    "title": "POWERS",
+    "hex": "#E74536"
+  },
+  {
+    "title": "PowerShell",
+    "hex": "#5391FE"
+  },
+  {
+    "title": "pr.co",
+    "hex": "#0080FF"
+  },
+  {
+    "title": "pre-commit",
+    "hex": "#FAB040"
+  },
+  {
+    "title": "Premier League",
+    "hex": "#360D3A"
+  },
+  {
+    "title": "PrestaShop",
+    "hex": "#DF0067"
+  },
+  {
+    "title": "Presto",
+    "hex": "#5890FF"
+  },
+  {
+    "title": "Prettier",
+    "hex": "#F7B93E"
+  },
+  {
+    "title": "Prezi",
+    "hex": "#3181FF"
+  },
+  {
+    "title": "Prime",
+    "hex": "#00A8E1"
+  },
+  {
+    "title": "Prime Video",
+    "hex": "#1F2E3E"
+  },
+  {
+    "title": "Prisma",
+    "hex": "#2D3748"
+  },
+  {
+    "title": "Prismic",
+    "hex": "#5163BA"
+  },
+  {
+    "title": "Private Internet Access",
+    "hex": "#4BB749"
+  },
+  {
+    "title": "Pro Tools",
+    "hex": "#7ACB10"
+  },
+  {
+    "title": "Probot",
+    "hex": "#00B0D8"
+  },
+  {
+    "title": "Processing Foundation",
+    "hex": "#006699"
+  },
+  {
+    "title": "ProcessWire",
+    "hex": "#2480E6"
+  },
+  {
+    "title": "Product Hunt",
+    "hex": "#DA552F"
+  },
+  {
+    "title": "Progate",
+    "hex": "#380953"
+  },
+  {
+    "title": "Progress",
+    "hex": "#5CE500"
+  },
+  {
+    "title": "Prometheus",
+    "hex": "#E6522C"
+  },
+  {
+    "title": "ProSieben",
+    "hex": "#E6000F"
+  },
+  {
+    "title": "Proto.io",
+    "hex": "#34A7C1"
+  },
+  {
+    "title": "protocols.io",
+    "hex": "#4D9FE7"
+  },
+  {
+    "title": "ProtonDB",
+    "hex": "#F50057"
+  },
+  {
+    "title": "ProtonMail",
+    "hex": "#8B89CC"
+  },
+  {
+    "title": "ProtonVPN",
+    "hex": "#56B366"
+  },
+  {
+    "title": "Proxmox",
+    "hex": "#E57000"
+  },
+  {
+    "title": "Publons",
+    "hex": "#336699"
+  },
+  {
+    "title": "PubMed",
+    "hex": "#326599"
+  },
+  {
+    "title": "Pug",
+    "hex": "#A86454"
+  },
+  {
+    "title": "Puppet",
+    "hex": "#FFAE1A"
+  },
+  {
+    "title": "Puppeteer",
+    "hex": "#40B5A4"
+  },
+  {
+    "title": "PureScript",
+    "hex": "#14161A"
+  },
+  {
+    "title": "PurgeCSS",
+    "hex": "#14161A"
+  },
+  {
+    "title": "Purism",
+    "hex": "#2D2D2D"
+  },
+  {
+    "title": "Pusher",
+    "hex": "#300D4F"
+  },
+  {
+    "title": "PyCharm",
+    "hex": "#000000"
+  },
+  {
+    "title": "PyPI",
+    "hex": "#3775A9"
+  },
+  {
+    "title": "PyPy",
+    "hex": "#193440"
+  },
+  {
+    "title": "Pytest",
+    "hex": "#0A9EDC"
+  },
+  {
+    "title": "Python",
+    "hex": "#3776AB"
+  },
+  {
+    "title": "PyTorch",
+    "hex": "#EE4C2C"
+  },
+  {
+    "title": "PyTorch Lightning",
+    "hex": "#792EE5"
+  },
+  {
+    "title": "PyUp",
+    "hex": "#9F55FF"
+  },
+  {
+    "title": "Qantas",
+    "hex": "#E40000"
+  },
+  {
+    "title": "Qatar Airways",
+    "hex": "#5C0D34"
+  },
+  {
+    "title": "QEMU",
+    "hex": "#FF6600"
+  },
+  {
+    "title": "Qgis",
+    "hex": "#589632"
+  },
+  {
+    "title": "Qi",
+    "hex": "#000000"
+  },
+  {
+    "title": "Qiita",
+    "hex": "#55C500"
+  },
+  {
+    "title": "Qiskit",
+    "hex": "#6929C4"
+  },
+  {
+    "title": "QIWI",
+    "hex": "#FF8C00"
+  },
+  {
+    "title": "Qt",
+    "hex": "#41CD52"
+  },
+  {
+    "title": "Qualcomm",
+    "hex": "#3253DC"
+  },
+  {
+    "title": "Qualtrics",
+    "hex": "#00B4EF"
+  },
+  {
+    "title": "Quantcast",
+    "hex": "#000000"
+  },
+  {
+    "title": "QuantConnect",
+    "hex": "#F5AE29"
+  },
+  {
+    "title": "Quarkus",
+    "hex": "#4695EB"
+  },
+  {
+    "title": "Quasar",
+    "hex": "#1976D2"
+  },
+  {
+    "title": "Qubes OS",
+    "hex": "#3874D8"
+  },
+  {
+    "title": "Quest",
+    "hex": "#FB4F14"
+  },
+  {
+    "title": "QuickBooks",
+    "hex": "#2CA01C"
+  },
+  {
+    "title": "QuickTime",
+    "hex": "#1C69F0"
+  },
+  {
+    "title": "Quip",
+    "hex": "#F27557"
+  },
+  {
+    "title": "Quora",
+    "hex": "#B92B27"
+  },
+  {
+    "title": "Qwiklabs",
+    "hex": "#F5CD0E"
+  },
+  {
+    "title": "Qzone",
+    "hex": "#FECE00"
+  },
+  {
+    "title": "R",
+    "hex": "#276DC3"
+  },
+  {
+    "title": "R3",
+    "hex": "#EC1D24"
+  },
+  {
+    "title": "RabbitMQ",
+    "hex": "#FF6600"
+  },
+  {
+    "title": "Racket",
+    "hex": "#9F1D20"
+  },
+  {
+    "title": "Radar",
+    "hex": "#007AFF"
+  },
+  {
+    "title": "RadioPublic",
+    "hex": "#CE262F"
+  },
+  {
+    "title": "Railway",
+    "hex": "#0B0D0E"
+  },
+  {
+    "title": "Rainmeter",
+    "hex": "#19519B"
+  },
+  {
+    "title": "Rakuten",
+    "hex": "#BF0000"
+  },
+  {
+    "title": "Ram",
+    "hex": "#000000"
+  },
+  {
+    "title": "Rancher",
+    "hex": "#0075A8"
+  },
+  {
+    "title": "Raspberry Pi",
+    "hex": "#A22846"
+  },
+  {
+    "title": "Razer",
+    "hex": "#00FF00"
+  },
+  {
+    "title": "React",
+    "hex": "#61DAFB"
+  },
+  {
+    "title": "React Router",
+    "hex": "#CA4245"
+  },
+  {
+    "title": "ReactiveX",
+    "hex": "#B7178C"
+  },
+  {
+    "title": "ReactOS",
+    "hex": "#0088CC"
+  },
+  {
+    "title": "Read the Docs",
+    "hex": "#8CA1AF"
+  },
+  {
+    "title": "Realm",
+    "hex": "#39477F"
+  },
+  {
+    "title": "Reason",
+    "hex": "#DD4B39"
+  },
+  {
+    "title": "Reason Studios",
+    "hex": "#FFFFFF"
+  },
+  {
+    "title": "Red Hat",
+    "hex": "#EE0000"
+  },
+  {
+    "title": "Red Hat Open Shift",
+    "hex": "#EE0000"
+  },
+  {
+    "title": "Redbubble",
+    "hex": "#E41321"
+  },
+  {
+    "title": "Reddit",
+    "hex": "#FF4500"
+  },
+  {
+    "title": "Redis",
+    "hex": "#DC382D"
+  },
+  {
+    "title": "Redux",
+    "hex": "#764ABC"
+  },
+  {
+    "title": "Redux-Saga",
+    "hex": "#999999"
+  },
+  {
+    "title": "RedwoodJS",
+    "hex": "#BF4722"
+  },
+  {
+    "title": "Reliance Industries Limited",
+    "hex": "#D1AB66"
+  },
+  {
+    "title": "Ren'Py",
+    "hex": "#FF7F7F"
+  },
+  {
+    "title": "Renault",
+    "hex": "#FFCC33"
+  },
+  {
+    "title": "RenovateBot",
+    "hex": "#1A1F6C"
+  },
+  {
+    "title": "Renren",
+    "hex": "#217DC6"
+  },
+  {
+    "title": "Replit",
+    "hex": "#667881"
+  },
+  {
+    "title": "ResearchGate",
+    "hex": "#00CCBB"
+  },
+  {
+    "title": "Resurrection Remix OS",
+    "hex": "#000000"
+  },
+  {
+    "title": "RetroArch",
+    "hex": "#000000"
+  },
+  {
+    "title": "RetroPie",
+    "hex": "#CC0000"
+  },
+  {
+    "title": "reveal.js",
+    "hex": "#F2E142"
+  },
+  {
+    "title": "ReverbNation",
+    "hex": "#E43526"
+  },
+  {
+    "title": "Revolut",
+    "hex": "#0075EB"
+  },
+  {
+    "title": "Revue",
+    "hex": "#E15718"
+  },
+  {
+    "title": "REWE",
+    "hex": "#CC071E"
+  },
+  {
+    "title": "Rezgo",
+    "hex": "#F76C00"
+  },
+  {
+    "title": "Rhinoceros",
+    "hex": "#801010"
+  },
+  {
+    "title": "Rider",
+    "hex": "#000000"
+  },
+  {
+    "title": "Ring",
+    "hex": "#1C9AD6"
+  },
+  {
+    "title": "Riot Games",
+    "hex": "#D32936"
+  },
+  {
+    "title": "Ripple",
+    "hex": "#0085C0"
+  },
+  {
+    "title": "Riseup",
+    "hex": "#FF0000"
+  },
+  {
+    "title": "Roam Research",
+    "hex": "#343A40"
+  },
+  {
+    "title": "Roblox",
+    "hex": "#000000"
+  },
+  {
+    "title": "Robot Framework",
+    "hex": "#000000"
+  },
+  {
+    "title": "Rocket.Chat",
+    "hex": "#F5455C"
+  },
+  {
+    "title": "Roku",
+    "hex": "#662D91"
+  },
+  {
+    "title": "Rolls-Royce",
+    "hex": "#281432"
+  },
+  {
+    "title": "rollup.js",
+    "hex": "#EC4A3F"
+  },
+  {
+    "title": "Roots",
+    "hex": "#525DDC"
+  },
+  {
+    "title": "Roots Bedrock",
+    "hex": "#525DDC"
+  },
+  {
+    "title": "Roots Sage",
+    "hex": "#525DDC"
+  },
+  {
+    "title": "ROS",
+    "hex": "#22314E"
+  },
+  {
+    "title": "Rotten Tomatoes",
+    "hex": "#FA320A"
+  },
+  {
+    "title": "Roundcube",
+    "hex": "#37BEFF"
+  },
+  {
+    "title": "RSS",
+    "hex": "#FFA500"
+  },
+  {
+    "title": "RStudio",
+    "hex": "#75AADB"
+  },
+  {
+    "title": "RTÉ",
+    "hex": "#00A7B3"
+  },
+  {
+    "title": "RTL",
+    "hex": "#E9113B"
+  },
+  {
+    "title": "RTLZWEI",
+    "hex": "#00BCF6"
+  },
+  {
+    "title": "Ruby",
+    "hex": "#CC342D"
+  },
+  {
+    "title": "Ruby on Rails",
+    "hex": "#CC0000"
+  },
+  {
+    "title": "RubyGems",
+    "hex": "#E9573F"
+  },
+  {
+    "title": "Runkeeper",
+    "hex": "#001E62"
+  },
+  {
+    "title": "RunKit",
+    "hex": "#491757"
+  },
+  {
+    "title": "Rust",
+    "hex": "#000000"
+  },
+  {
+    "title": "RxDB",
+    "hex": "#8D1F89"
+  },
+  {
+    "title": "Ryanair",
+    "hex": "#073590"
+  },
+  {
+    "title": "S7 Airlines",
+    "hex": "#BED600"
+  },
+  {
+    "title": "Safari",
+    "hex": "#000000"
+  },
+  {
+    "title": "Sahibinden",
+    "hex": "#FFE800"
+  },
+  {
+    "title": "Salesforce",
+    "hex": "#00A1E0"
+  },
+  {
+    "title": "SaltStack",
+    "hex": "#00EACE"
+  },
+  {
+    "title": "Samsung",
+    "hex": "#1428A0"
+  },
+  {
+    "title": "Samsung Pay",
+    "hex": "#1428A0"
+  },
+  {
+    "title": "San Francisco Municipal Railway",
+    "hex": "#BA0C2F"
+  },
+  {
+    "title": "São Paulo Metro",
+    "hex": "#004382"
+  },
+  {
+    "title": "SAP",
+    "hex": "#0FAAFF"
+  },
+  {
+    "title": "Sass",
+    "hex": "#CC6699"
+  },
+  {
+    "title": "Sat.1",
+    "hex": "#047DA3"
+  },
+  {
+    "title": "Sauce Labs",
+    "hex": "#E2231A"
+  },
+  {
+    "title": "Scala",
+    "hex": "#DC322F"
+  },
+  {
+    "title": "Scaleway",
+    "hex": "#4F0599"
+  },
+  {
+    "title": "Scania",
+    "hex": "#041E42"
+  },
+  {
+    "title": "scikit-learn",
+    "hex": "#F7931E"
+  },
+  {
+    "title": "SciPy",
+    "hex": "#8CAAE6"
+  },
+  {
+    "title": "Scopus",
+    "hex": "#E9711C"
+  },
+  {
+    "title": "Scratch",
+    "hex": "#4D97FF"
+  },
+  {
+    "title": "Screencastify",
+    "hex": "#FF8282"
+  },
+  {
+    "title": "Scribd",
+    "hex": "#1A7BBA"
+  },
+  {
+    "title": "Scrimba",
+    "hex": "#2B283A"
+  },
+  {
+    "title": "ScrollReveal",
+    "hex": "#FFCB36"
+  },
+  {
+    "title": "Scrum Alliance",
+    "hex": "#009FDA"
+  },
+  {
+    "title": "Scrutinizer CI",
+    "hex": "#8A9296"
+  },
+  {
+    "title": "Seagate",
+    "hex": "#6EBE49"
+  },
+  {
+    "title": "SEAT",
+    "hex": "#33302E"
+  },
+  {
+    "title": "Sefaria",
+    "hex": "#212E50"
+  },
+  {
+    "title": "Sega",
+    "hex": "#0089CF"
+  },
+  {
+    "title": "Selenium",
+    "hex": "#43B02A"
+  },
+  {
+    "title": "Sellfy",
+    "hex": "#21B352"
+  },
+  {
+    "title": "Semantic UI React",
+    "hex": "#35BDB2"
+  },
+  {
+    "title": "Semantic Web",
+    "hex": "#005A9C"
+  },
+  {
+    "title": "semantic-release",
+    "hex": "#494949"
+  },
+  {
+    "title": "Semaphore CI",
+    "hex": "#19A974"
+  },
+  {
+    "title": "SemVer",
+    "hex": "#3F4551"
+  },
+  {
+    "title": "Sencha",
+    "hex": "#86BC40"
+  },
+  {
+    "title": "Sennheiser",
+    "hex": "#000000"
+  },
+  {
+    "title": "Sensu",
+    "hex": "#89C967"
+  },
+  {
+    "title": "Sentry",
+    "hex": "#362D59"
+  },
+  {
+    "title": "SEPA",
+    "hex": "#2350A9"
+  },
+  {
+    "title": "Server Fault",
+    "hex": "#E7282D"
+  },
+  {
+    "title": "Serverless",
+    "hex": "#FD5750"
+  },
+  {
+    "title": "SFML",
+    "hex": "#8CC445"
+  },
+  {
+    "title": "Shanghai Metro",
+    "hex": "#EC1C24"
+  },
+  {
+    "title": "sharp",
+    "hex": "#99CC00"
+  },
+  {
+    "title": "Shazam",
+    "hex": "#0088FF"
+  },
+  {
+    "title": "Shell",
+    "hex": "#FFD500"
+  },
+  {
+    "title": "Shelly",
+    "hex": "#4495D1"
+  },
+  {
+    "title": "Shenzhen Metro",
+    "hex": "#009943"
+  },
+  {
+    "title": "Shields.io",
+    "hex": "#000000"
+  },
+  {
+    "title": "Shikimori",
+    "hex": "#343434"
+  },
+  {
+    "title": "Shopify",
+    "hex": "#7AB55C"
+  },
+  {
+    "title": "Shopware",
+    "hex": "#189EFF"
+  },
+  {
+    "title": "Shotcut",
+    "hex": "#115C77"
+  },
+  {
+    "title": "Showpad",
+    "hex": "#2D2E83"
+  },
+  {
+    "title": "Showtime",
+    "hex": "#B10000"
+  },
+  {
+    "title": "Shutterstock",
+    "hex": "#EE2B24"
+  },
+  {
+    "title": "Siemens",
+    "hex": "#009999"
+  },
+  {
+    "title": "Signal",
+    "hex": "#2592E9"
+  },
+  {
+    "title": "Simkl",
+    "hex": "#000000"
+  },
+  {
+    "title": "Simple Analytics",
+    "hex": "#FF4F64"
+  },
+  {
+    "title": "Simple Icons",
+    "hex": "#111111"
+  },
+  {
+    "title": "Sina Weibo",
+    "hex": "#E6162D"
+  },
+  {
+    "title": "SingleStore",
+    "hex": "#AA00FF"
+  },
+  {
+    "title": "SitePoint",
+    "hex": "#258AAF"
+  },
+  {
+    "title": "Sketch",
+    "hex": "#F7B500"
+  },
+  {
+    "title": "Sketchfab",
+    "hex": "#1CAAD9"
+  },
+  {
+    "title": "SketchUp",
+    "hex": "#005F9E"
+  },
+  {
+    "title": "Skillshare",
+    "hex": "#00FF84"
+  },
+  {
+    "title": "ŠKODA",
+    "hex": "#4BA82E"
+  },
+  {
+    "title": "Sky",
+    "hex": "#0072C9"
+  },
+  {
+    "title": "Skyliner",
+    "hex": "#2FCEA0"
+  },
+  {
+    "title": "Skype",
+    "hex": "#00AFF0"
+  },
+  {
+    "title": "Skype for Business",
+    "hex": "#00AFF0"
+  },
+  {
+    "title": "Slack",
+    "hex": "#4A154B"
+  },
+  {
+    "title": "Slackware",
+    "hex": "#000000"
+  },
+  {
+    "title": "Slashdot",
+    "hex": "#026664"
+  },
+  {
+    "title": "SlickPic",
+    "hex": "#FF880F"
+  },
+  {
+    "title": "Slides",
+    "hex": "#E4637C"
+  },
+  {
+    "title": "SlideShare",
+    "hex": "#008ED2"
+  },
+  {
+    "title": "smart",
+    "hex": "#FABC0C"
+  },
+  {
+    "title": "SmartThings",
+    "hex": "#15BFFF"
+  },
+  {
+    "title": "smash.gg",
+    "hex": "#CB333B"
+  },
+  {
+    "title": "Smashing Magazine",
+    "hex": "#E85C33"
+  },
+  {
+    "title": "SMRT",
+    "hex": "#EE2E24"
+  },
+  {
+    "title": "SmugMug",
+    "hex": "#6DB944"
+  },
+  {
+    "title": "Snapchat",
+    "hex": "#FFFC00"
+  },
+  {
+    "title": "Snapcraft",
+    "hex": "#82BEA0"
+  },
+  {
+    "title": "Snowflake",
+    "hex": "#56B9EB"
+  },
+  {
+    "title": "Snyk",
+    "hex": "#4C4A73"
+  },
+  {
+    "title": "Society6",
+    "hex": "#000000"
+  },
+  {
+    "title": "Socket.io",
+    "hex": "#010101"
+  },
+  {
+    "title": "Sogou",
+    "hex": "#FB6022"
+  },
+  {
+    "title": "Solidity",
+    "hex": "#363636"
+  },
+  {
+    "title": "SoloLearn",
+    "hex": "#1ABC9C"
+  },
+  {
+    "title": "Solus",
+    "hex": "#5294E2"
+  },
+  {
+    "title": "SonarCloud",
+    "hex": "#F3702A"
+  },
+  {
+    "title": "SonarLint",
+    "hex": "#CB2029"
+  },
+  {
+    "title": "SonarQube",
+    "hex": "#4E9BCD"
+  },
+  {
+    "title": "SonarSource",
+    "hex": "#CB3032"
+  },
+  {
+    "title": "Songkick",
+    "hex": "#F80046"
+  },
+  {
+    "title": "Songoda",
+    "hex": "#FC494A"
+  },
+  {
+    "title": "SonicWall",
+    "hex": "#FF791A"
+  },
+  {
+    "title": "Sonos",
+    "hex": "#000000"
+  },
+  {
+    "title": "SoundCloud",
+    "hex": "#FF3300"
+  },
+  {
+    "title": "Source Engine",
+    "hex": "#F79A10"
+  },
+  {
+    "title": "SourceForge",
+    "hex": "#FF6600"
+  },
+  {
+    "title": "Sourcegraph",
+    "hex": "#00B4F2"
+  },
+  {
+    "title": "Southwest Airlines",
+    "hex": "#304CB2"
+  },
+  {
+    "title": "Spacemacs",
+    "hex": "#9266CC"
+  },
+  {
+    "title": "SpaceX",
+    "hex": "#000000"
+  },
+  {
+    "title": "Spark AR",
+    "hex": "#FF5C83"
+  },
+  {
+    "title": "Sparkasse",
+    "hex": "#FF0000"
+  },
+  {
+    "title": "SparkFun",
+    "hex": "#E53525"
+  },
+  {
+    "title": "SparkPost",
+    "hex": "#FA6423"
+  },
+  {
+    "title": "SPDX",
+    "hex": "#4398CC"
+  },
+  {
+    "title": "Speaker Deck",
+    "hex": "#009287"
+  },
+  {
+    "title": "Spectrum",
+    "hex": "#7B16FF"
+  },
+  {
+    "title": "Speedtest",
+    "hex": "#141526"
+  },
+  {
+    "title": "Spinnaker",
+    "hex": "#139BB4"
+  },
+  {
+    "title": "Spinrilla",
+    "hex": "#460856"
+  },
+  {
+    "title": "Splunk",
+    "hex": "#000000"
+  },
+  {
+    "title": "Spotify",
+    "hex": "#1ED760"
+  },
+  {
+    "title": "Spotlight",
+    "hex": "#352A71"
+  },
+  {
+    "title": "Spreaker",
+    "hex": "#F5C300"
+  },
+  {
+    "title": "Spring",
+    "hex": "#6DB33F"
+  },
+  {
+    "title": "Spring Boot",
+    "hex": "#6DB33F"
+  },
+  {
+    "title": "Spyder IDE",
+    "hex": "#FF0000"
+  },
+  {
+    "title": "SQLite",
+    "hex": "#003B57"
+  },
+  {
+    "title": "Square",
+    "hex": "#3E4348"
+  },
+  {
+    "title": "Square Enix",
+    "hex": "#ED1C24"
+  },
+  {
+    "title": "Squarespace",
+    "hex": "#000000"
+  },
+  {
+    "title": "SSRN",
+    "hex": "#154881"
+  },
+  {
+    "title": "Stack Exchange",
+    "hex": "#1E5397"
+  },
+  {
+    "title": "Stack Overflow",
+    "hex": "#F58025"
+  },
+  {
+    "title": "Stackbit",
+    "hex": "#207BEA"
+  },
+  {
+    "title": "StackPath",
+    "hex": "#000000"
+  },
+  {
+    "title": "StackShare",
+    "hex": "#0690FA"
+  },
+  {
+    "title": "Stadia",
+    "hex": "#CD2640"
+  },
+  {
+    "title": "Staffbase",
+    "hex": "#00A4FD"
+  },
+  {
+    "title": "Star Trek",
+    "hex": "#FFE200"
+  },
+  {
+    "title": "Starling Bank",
+    "hex": "#7433FF"
+  },
+  {
+    "title": "Starship",
+    "hex": "#DD0B78"
+  },
+  {
+    "title": "STARZ",
+    "hex": "#000000"
+  },
+  {
+    "title": "Statamic",
+    "hex": "#FF269E"
+  },
+  {
+    "title": "Statuspage",
+    "hex": "#172B4D"
+  },
+  {
+    "title": "Statuspal",
+    "hex": "#4934BF"
+  },
+  {
+    "title": "Steam",
+    "hex": "#000000"
+  },
+  {
+    "title": "SteamDB",
+    "hex": "#000000"
+  },
+  {
+    "title": "Steamworks",
+    "hex": "#1E1E1E"
+  },
+  {
+    "title": "Steem",
+    "hex": "#171FC9"
+  },
+  {
+    "title": "Steemit",
+    "hex": "#06D6A9"
+  },
+  {
+    "title": "Steinberg",
+    "hex": "#C90827"
+  },
+  {
+    "title": "Stellar",
+    "hex": "#7D00FF"
+  },
+  {
+    "title": "Stencyl",
+    "hex": "#8E1C04"
+  },
+  {
+    "title": "Stimulus",
+    "hex": "#77E8B9"
+  },
+  {
+    "title": "Stitcher",
+    "hex": "#000000"
+  },
+  {
+    "title": "STMicroelectronics",
+    "hex": "#03234B"
+  },
+  {
+    "title": "Storyblok",
+    "hex": "#09B3AF"
+  },
+  {
+    "title": "Storybook",
+    "hex": "#FF4785"
+  },
+  {
+    "title": "Strapi",
+    "hex": "#2F2E8B"
+  },
+  {
+    "title": "Strava",
+    "hex": "#FC4C02"
+  },
+  {
+    "title": "Streamlit",
+    "hex": "#FF4B4B"
+  },
+  {
+    "title": "Stripe",
+    "hex": "#008CDD"
+  },
+  {
+    "title": "strongSwan",
+    "hex": "#E00033"
+  },
+  {
+    "title": "StubHub",
+    "hex": "#003168"
+  },
+  {
+    "title": "styled-components",
+    "hex": "#DB7093"
+  },
+  {
+    "title": "stylelint",
+    "hex": "#263238"
+  },
+  {
+    "title": "StyleShare",
+    "hex": "#212121"
+  },
+  {
+    "title": "Stylus",
+    "hex": "#333333"
+  },
+  {
+    "title": "Subaru",
+    "hex": "#013C74"
+  },
+  {
+    "title": "Sublime Text",
+    "hex": "#FF9800"
+  },
+  {
+    "title": "Substack",
+    "hex": "#FF6719"
+  },
+  {
+    "title": "Subversion",
+    "hex": "#809CC9"
+  },
+  {
+    "title": "suckless",
+    "hex": "#1177AA"
+  },
+  {
+    "title": "Sumo Logic",
+    "hex": "#000099"
+  },
+  {
+    "title": "Supabase",
+    "hex": "#3ECF8E"
+  },
+  {
+    "title": "Super User",
+    "hex": "#38A1CE"
+  },
+  {
+    "title": "SurveyMonkey",
+    "hex": "#00BF6F"
+  },
+  {
+    "title": "SUSE",
+    "hex": "#0C322C"
+  },
+  {
+    "title": "Suzuki",
+    "hex": "#E30613"
+  },
+  {
+    "title": "Svelte",
+    "hex": "#FF3E00"
+  },
+  {
+    "title": "SVG",
+    "hex": "#FFB13B"
+  },
+  {
+    "title": "SVGO",
+    "hex": "#3E7FC1"
+  },
+  {
+    "title": "Swagger",
+    "hex": "#85EA2D"
+  },
+  {
+    "title": "Swarm",
+    "hex": "#FFA633"
+  },
+  {
+    "title": "Swift",
+    "hex": "#FA7343"
+  },
+  {
+    "title": "Swiggy",
+    "hex": "#FC8019"
+  },
+  {
+    "title": "Swiper",
+    "hex": "#6332F6"
+  },
+  {
+    "title": "Symantec",
+    "hex": "#FDB511"
+  },
+  {
+    "title": "Symfony",
+    "hex": "#000000"
+  },
+  {
+    "title": "Symphony",
+    "hex": "#0098FF"
+  },
+  {
+    "title": "SymPy",
+    "hex": "#3B5526"
+  },
+  {
+    "title": "Synology",
+    "hex": "#B5B5B6"
+  },
+  {
+    "title": "T-Mobile",
+    "hex": "#E20074"
+  },
+  {
+    "title": "Tableau",
+    "hex": "#E97627"
+  },
+  {
+    "title": "tado°",
+    "hex": "#FFA900"
+  },
+  {
+    "title": "Tails",
+    "hex": "#56347C"
+  },
+  {
+    "title": "Tailwind CSS",
+    "hex": "#38B2AC"
+  },
+  {
+    "title": "Talend",
+    "hex": "#1675BC"
+  },
+  {
+    "title": "Tampermonkey",
+    "hex": "#00485B"
+  },
+  {
+    "title": "Taobao",
+    "hex": "#E94F20"
+  },
+  {
+    "title": "Tapas",
+    "hex": "#FFCE00"
+  },
+  {
+    "title": "Tasmota",
+    "hex": "#1FA3EC"
+  },
+  {
+    "title": "Tata",
+    "hex": "#486AAE"
+  },
+  {
+    "title": "TaxBuzz",
+    "hex": "#ED8B0B"
+  },
+  {
+    "title": "TeamCity",
+    "hex": "#000000"
+  },
+  {
+    "title": "TeamSpeak",
+    "hex": "#2580C3"
+  },
+  {
+    "title": "TeamViewer",
+    "hex": "#0E8EE9"
+  },
+  {
+    "title": "TED",
+    "hex": "#E62B1E"
+  },
+  {
+    "title": "Teespring",
+    "hex": "#39ACE6"
+  },
+  {
+    "title": "Tekton",
+    "hex": "#FD495C"
+  },
+  {
+    "title": "TELE5",
+    "hex": "#C2AD6F"
+  },
+  {
+    "title": "Telegram",
+    "hex": "#26A5E4"
+  },
+  {
+    "title": "Telegraph",
+    "hex": "#FAFAFA"
+  },
+  {
+    "title": "Tencent QQ",
+    "hex": "#EB1923"
+  },
+  {
+    "title": "TensorFlow",
+    "hex": "#FF6F00"
+  },
+  {
+    "title": "Teradata",
+    "hex": "#F37440"
+  },
+  {
+    "title": "teratail",
+    "hex": "#F4C51C"
+  },
+  {
+    "title": "Terraform",
+    "hex": "#7B42BC"
+  },
+  {
+    "title": "Tesla",
+    "hex": "#CC0000"
+  },
+  {
+    "title": "Testin",
+    "hex": "#007DD7"
+  },
+  {
+    "title": "Testing Library",
+    "hex": "#E33332"
+  },
+  {
+    "title": "Textpattern",
+    "hex": "#FFDA44"
+  },
+  {
+    "title": "The Conversation",
+    "hex": "#D8352A"
+  },
+  {
+    "title": "The Irish Times",
+    "hex": "#000000"
+  },
+  {
+    "title": "The Mighty",
+    "hex": "#D0072A"
+  },
+  {
+    "title": "The Models Resource",
+    "hex": "#3A75BD"
+  },
+  {
+    "title": "The Movie Database",
+    "hex": "#01D277"
+  },
+  {
+    "title": "The Register",
+    "hex": "#FF0000"
+  },
+  {
+    "title": "The Sounds Resource",
+    "hex": "#39BE6B"
+  },
+  {
+    "title": "The Spriters Resource",
+    "hex": "#BE3939"
+  },
+  {
+    "title": "The Washington Post",
+    "hex": "#231F20"
+  },
+  {
+    "title": "Thingiverse",
+    "hex": "#248BFB"
+  },
+  {
+    "title": "ThinkPad",
+    "hex": "#EE2624"
+  },
+  {
+    "title": "Three.js",
+    "hex": "#000000"
+  },
+  {
+    "title": "Threema",
+    "hex": "#3FE669"
+  },
+  {
+    "title": "Thumbtack",
+    "hex": "#009FD9"
+  },
+  {
+    "title": "Thunderbird",
+    "hex": "#0A84FF"
+  },
+  {
+    "title": "Thymeleaf",
+    "hex": "#005F0F"
+  },
+  {
+    "title": "Ticketmaster",
+    "hex": "#026CDF"
+  },
+  {
+    "title": "Tidal",
+    "hex": "#000000"
+  },
+  {
+    "title": "Tide",
+    "hex": "#4050FB"
+  },
+  {
+    "title": "TietoEVRY",
+    "hex": "#063752"
+  },
+  {
+    "title": "TikTok",
+    "hex": "#000000"
+  },
+  {
+    "title": "Tile",
+    "hex": "#000000"
+  },
+  {
+    "title": "Timescale",
+    "hex": "#FDB515"
+  },
+  {
+    "title": "Tinder",
+    "hex": "#FF6B6B"
+  },
+  {
+    "title": "TinyLetter",
+    "hex": "#ED1C24"
+  },
+  {
+    "title": "tmux",
+    "hex": "#1BB91F"
+  },
+  {
+    "title": "Todoist",
+    "hex": "#E44332"
+  },
+  {
+    "title": "Toggl",
+    "hex": "#E01B22"
+  },
+  {
+    "title": "Tokyo Metro",
+    "hex": "#149DD3"
+  },
+  {
+    "title": "Tomorrowland",
+    "hex": "#000000"
+  },
+  {
+    "title": "Topcoder",
+    "hex": "#29A7DF"
+  },
+  {
+    "title": "Toptal",
+    "hex": "#3863A0"
+  },
+  {
+    "title": "Tor Browser",
+    "hex": "#7D4698"
+  },
+  {
+    "title": "Tor Project",
+    "hex": "#7E4798"
+  },
+  {
+    "title": "Toshiba",
+    "hex": "#FF0000"
+  },
+  {
+    "title": "Toyota",
+    "hex": "#EB0A1E"
+  },
+  {
+    "title": "TP-Link",
+    "hex": "#4ACBD6"
+  },
+  {
+    "title": "tqdm",
+    "hex": "#FFC107"
+  },
+  {
+    "title": "TrainerRoad",
+    "hex": "#E12726"
+  },
+  {
+    "title": "Trakt",
+    "hex": "#ED1C24"
+  },
+  {
+    "title": "TransferWise",
+    "hex": "#00B9FF"
+  },
+  {
+    "title": "Transport for Ireland",
+    "hex": "#00B274"
+  },
+  {
+    "title": "Transport for London",
+    "hex": "#113B92"
+  },
+  {
+    "title": "Travis CI",
+    "hex": "#3EAAAF"
+  },
+  {
+    "title": "Treehouse",
+    "hex": "#5FCF80"
+  },
+  {
+    "title": "Trello",
+    "hex": "#0052CC"
+  },
+  {
+    "title": "Trend Micro",
+    "hex": "#D71921"
+  },
+  {
+    "title": "Treyarch",
+    "hex": "#000000"
+  },
+  {
+    "title": "Triller",
+    "hex": "#FF0089"
+  },
+  {
+    "title": "Trino",
+    "hex": "#DD00A1"
+  },
+  {
+    "title": "Trip.com",
+    "hex": "#287DFA"
+  },
+  {
+    "title": "Tripadvisor",
+    "hex": "#34E0A1"
+  },
+  {
+    "title": "Trove",
+    "hex": "#609540"
+  },
+  {
+    "title": "TrueNAS",
+    "hex": "#0095D5"
+  },
+  {
+    "title": "Trulia",
+    "hex": "#53B50A"
+  },
+  {
+    "title": "Trusted Shops",
+    "hex": "#FFDC0F"
+  },
+  {
+    "title": "Trustpilot",
+    "hex": "#00B67A"
+  },
+  {
+    "title": "Try It Online",
+    "hex": "#303030"
+  },
+  {
+    "title": "TryHackMe",
+    "hex": "#212C42"
+  },
+  {
+    "title": "ts-node",
+    "hex": "#3178C6"
+  },
+  {
+    "title": "TUI",
+    "hex": "#70CBF4"
+  },
+  {
+    "title": "Tumblr",
+    "hex": "#36465D"
+  },
+  {
+    "title": "TuneIn",
+    "hex": "#14D8CC"
+  },
+  {
+    "title": "TurboSquid",
+    "hex": "#FF8135"
+  },
+  {
+    "title": "Turkish Airlines",
+    "hex": "#C70A0C"
+  },
+  {
+    "title": "Tutanota",
+    "hex": "#840010"
+  },
+  {
+    "title": "TV Time",
+    "hex": "#FFD400"
+  },
+  {
+    "title": "Twilio",
+    "hex": "#F22F46"
+  },
+  {
+    "title": "Twitch",
+    "hex": "#9146FF"
+  },
+  {
+    "title": "Twitter",
+    "hex": "#1DA1F2"
+  },
+  {
+    "title": "Twoo",
+    "hex": "#FF7102"
+  },
+  {
+    "title": "TypeScript",
+    "hex": "#3178C6"
+  },
+  {
+    "title": "TYPO3",
+    "hex": "#FF8700"
+  },
+  {
+    "title": "Uber",
+    "hex": "#000000"
+  },
+  {
+    "title": "Uber Eats",
+    "hex": "#06C167"
+  },
+  {
+    "title": "Ubiquiti",
+    "hex": "#0559C9"
+  },
+  {
+    "title": "Ubisoft",
+    "hex": "#000000"
+  },
+  {
+    "title": "uBlock Origin",
+    "hex": "#800000"
+  },
+  {
+    "title": "Ubuntu",
+    "hex": "#E95420"
+  },
+  {
+    "title": "Udacity",
+    "hex": "#02B3E4"
+  },
+  {
+    "title": "Udemy",
+    "hex": "#EC5252"
+  },
+  {
+    "title": "UFC",
+    "hex": "#D20A0A"
+  },
+  {
+    "title": "UIkit",
+    "hex": "#2396F3"
+  },
+  {
+    "title": "Ulule",
+    "hex": "#18A5D6"
+  },
+  {
+    "title": "Umbraco",
+    "hex": "#3544B1"
+  },
+  {
+    "title": "Unacademy",
+    "hex": "#08BD80"
+  },
+  {
+    "title": "Undertale",
+    "hex": "#E71D29"
+  },
+  {
+    "title": "Unicode",
+    "hex": "#5455FE"
+  },
+  {
+    "title": "Unilever",
+    "hex": "#1F36C7"
+  },
+  {
+    "title": "United Airlines",
+    "hex": "#002244"
+  },
+  {
+    "title": "Unity",
+    "hex": "#000000"
+  },
+  {
+    "title": "Unraid",
+    "hex": "#F15A2C"
+  },
+  {
+    "title": "Unreal Engine",
+    "hex": "#313131"
+  },
+  {
+    "title": "Unsplash",
+    "hex": "#000000"
+  },
+  {
+    "title": "Untangle",
+    "hex": "#68BD49"
+  },
+  {
+    "title": "Untappd",
+    "hex": "#FFC000"
+  },
+  {
+    "title": "UpCloud",
+    "hex": "#7B00FF"
+  },
+  {
+    "title": "UpLabs",
+    "hex": "#3930D8"
+  },
+  {
+    "title": "Uploaded",
+    "hex": "#0E70CB"
+  },
+  {
+    "title": "UPS",
+    "hex": "#150400"
+  },
+  {
+    "title": "Upwork",
+    "hex": "#6FDA44"
+  },
+  {
+    "title": "USPS",
+    "hex": "#333366"
+  },
+  {
+    "title": "V",
+    "hex": "#5D87BF"
+  },
+  {
+    "title": "V8",
+    "hex": "#4B8BF5"
+  },
+  {
+    "title": "Vaadin",
+    "hex": "#00B4F0"
+  },
+  {
+    "title": "Vagrant",
+    "hex": "#1868F2"
+  },
+  {
+    "title": "Valve",
+    "hex": "#F74843"
+  },
+  {
+    "title": "Vapor",
+    "hex": "#0D0D0D"
+  },
+  {
+    "title": "Vault",
+    "hex": "#000000"
+  },
+  {
+    "title": "Vauxhall",
+    "hex": "#EB001E"
+  },
+  {
+    "title": "vBulletin",
+    "hex": "#184D66"
+  },
+  {
+    "title": "Vector Logo Zone",
+    "hex": "#184D66"
+  },
+  {
+    "title": "Vectorworks",
+    "hex": "#000000"
+  },
+  {
+    "title": "Veeam",
+    "hex": "#00B336"
+  },
+  {
+    "title": "Veepee",
+    "hex": "#EC008C"
+  },
+  {
+    "title": "Venmo",
+    "hex": "#3D95CE"
+  },
+  {
+    "title": "Vercel",
+    "hex": "#000000"
+  },
+  {
+    "title": "Verdaccio",
+    "hex": "#4B5E40"
+  },
+  {
+    "title": "Veritas",
+    "hex": "#B1181E"
+  },
+  {
+    "title": "Verizon",
+    "hex": "#CD040B"
+  },
+  {
+    "title": "vFairs",
+    "hex": "#EF4678"
+  },
+  {
+    "title": "Viadeo",
+    "hex": "#F07355"
+  },
+  {
+    "title": "Viber",
+    "hex": "#7360F2"
+  },
+  {
+    "title": "Vim",
+    "hex": "#019733"
+  },
+  {
+    "title": "Vimeo",
+    "hex": "#1AB7EA"
+  },
+  {
+    "title": "Vimeo Livestream",
+    "hex": "#0A0A20"
+  },
+  {
+    "title": "VirtualBox",
+    "hex": "#183A61"
+  },
+  {
+    "title": "VirusTotal",
+    "hex": "#394EFF"
+  },
+  {
+    "title": "Visa",
+    "hex": "#1A1F71"
+  },
+  {
+    "title": "Visual Studio",
+    "hex": "#5C2D91"
+  },
+  {
+    "title": "Visual Studio Code",
+    "hex": "#007ACC"
+  },
+  {
+    "title": "Vite",
+    "hex": "#646CFF"
+  },
+  {
+    "title": "Vivaldi",
+    "hex": "#EF3939"
+  },
+  {
+    "title": "Vivino",
+    "hex": "#AA1329"
+  },
+  {
+    "title": "VK",
+    "hex": "#4680C2"
+  },
+  {
+    "title": "VLC media player",
+    "hex": "#FF8800"
+  },
+  {
+    "title": "VMware",
+    "hex": "#607078"
+  },
+  {
+    "title": "Vodafone",
+    "hex": "#E60000"
+  },
+  {
+    "title": "Volkswagen",
+    "hex": "#151F5D"
+  },
+  {
+    "title": "Volvo",
+    "hex": "#003057"
+  },
+  {
+    "title": "Vonage",
+    "hex": "#FFFFFF"
+  },
+  {
+    "title": "VOX",
+    "hex": "#DA074A"
+  },
+  {
+    "title": "VSCO",
+    "hex": "#000000"
+  },
+  {
+    "title": "Vue.js",
+    "hex": "#4FC08D"
+  },
+  {
+    "title": "Vuetify",
+    "hex": "#1867C0"
+  },
+  {
+    "title": "Vulkan",
+    "hex": "#AC162C"
+  },
+  {
+    "title": "Vultr",
+    "hex": "#007BFC"
+  },
+  {
+    "title": "W3C",
+    "hex": "#005A9C"
+  },
+  {
+    "title": "Wagtail",
+    "hex": "#43B1B0"
+  },
+  {
+    "title": "WakaTime",
+    "hex": "#000000"
+  },
+  {
+    "title": "WALKMAN",
+    "hex": "#000000"
+  },
+  {
+    "title": "Wallabag",
+    "hex": "#3F6184"
+  },
+  {
+    "title": "Wappalyzer",
+    "hex": "#32067C"
+  },
+  {
+    "title": "Warner Bros.",
+    "hex": "#004DB4"
+  },
+  {
+    "title": "Wattpad",
+    "hex": "#FF500A"
+  },
+  {
+    "title": "Waze",
+    "hex": "#33CCFF"
+  },
+  {
+    "title": "Wear OS",
+    "hex": "#4285F4"
+  },
+  {
+    "title": "Weasyl",
+    "hex": "#990000"
+  },
+  {
+    "title": "Web3.js",
+    "hex": "#F16822"
+  },
+  {
+    "title": "WebAssembly",
+    "hex": "#654FF0"
+  },
+  {
+    "title": "WebAuthn",
+    "hex": "#3423A6"
+  },
+  {
+    "title": "webcomponents.org",
+    "hex": "#29ABE2"
+  },
+  {
+    "title": "WebdriverIO",
+    "hex": "#EA5906"
+  },
+  {
+    "title": "Webflow",
+    "hex": "#4353FF"
+  },
+  {
+    "title": "WebGL",
+    "hex": "#990000"
+  },
+  {
+    "title": "webhint",
+    "hex": "#4700A3"
+  },
+  {
+    "title": "Weblate",
+    "hex": "#2ECCAA"
+  },
+  {
+    "title": "Webmin",
+    "hex": "#7DA0D0"
+  },
+  {
+    "title": "WebMoney",
+    "hex": "#036CB5"
+  },
+  {
+    "title": "Webpack",
+    "hex": "#8DD6F9"
+  },
+  {
+    "title": "WebRTC",
+    "hex": "#333333"
+  },
+  {
+    "title": "WebStorm",
+    "hex": "#000000"
+  },
+  {
+    "title": "WEBTOON",
+    "hex": "#00D564"
+  },
+  {
+    "title": "WeChat",
+    "hex": "#07C160"
+  },
+  {
+    "title": "Weights & Biases",
+    "hex": "#FFBE00"
+  },
+  {
+    "title": "WEMO",
+    "hex": "#72D44C"
+  },
+  {
+    "title": "WeTransfer",
+    "hex": "#409FFF"
+  },
+  {
+    "title": "WhatsApp",
+    "hex": "#25D366"
+  },
+  {
+    "title": "When I Work",
+    "hex": "#51A33D"
+  },
+  {
+    "title": "WhiteSource",
+    "hex": "#161D4E"
+  },
+  {
+    "title": "Wii",
+    "hex": "#8B8B8B"
+  },
+  {
+    "title": "Wii U",
+    "hex": "#8B8B8B"
+  },
+  {
+    "title": "Wikidata",
+    "hex": "#006699"
+  },
+  {
+    "title": "Wikimedia Commons",
+    "hex": "#006699"
+  },
+  {
+    "title": "Wikipedia",
+    "hex": "#000000"
+  },
+  {
+    "title": "Wikiquote",
+    "hex": "#006699"
+  },
+  {
+    "title": "Wikivoyage",
+    "hex": "#006699"
+  },
+  {
+    "title": "Windows",
+    "hex": "#0078D6"
+  },
+  {
+    "title": "Windows 95",
+    "hex": "#008080"
+  },
+  {
+    "title": "Windows Terminal",
+    "hex": "#4D4D4D"
+  },
+  {
+    "title": "Windows XP",
+    "hex": "#003399"
+  },
+  {
+    "title": "Winmate",
+    "hex": "#C11920"
+  },
+  {
+    "title": "Wipro",
+    "hex": "#341C53"
+  },
+  {
+    "title": "Wire",
+    "hex": "#000000"
+  },
+  {
+    "title": "WireGuard",
+    "hex": "#88171A"
+  },
+  {
+    "title": "Wireshark",
+    "hex": "#1679A7"
+  },
+  {
+    "title": "Wish",
+    "hex": "#2FB7EC"
+  },
+  {
+    "title": "Wistia",
+    "hex": "#54BBFF"
+  },
+  {
+    "title": "Wix",
+    "hex": "#0C6EFC"
+  },
+  {
+    "title": "Wizz Air",
+    "hex": "#C6007E"
+  },
+  {
+    "title": "Wolfram",
+    "hex": "#DD1100"
+  },
+  {
+    "title": "Wolfram Language",
+    "hex": "#DD1100"
+  },
+  {
+    "title": "Wolfram Mathematica",
+    "hex": "#DD1100"
+  },
+  {
+    "title": "Woo",
+    "hex": "#96588A"
+  },
+  {
+    "title": "WooCommerce",
+    "hex": "#96588A"
+  },
+  {
+    "title": "WordPress",
+    "hex": "#21759B"
+  },
+  {
+    "title": "Workplace",
+    "hex": "#20252D"
+  },
+  {
+    "title": "World Health Organization",
+    "hex": "#0093D5"
+  },
+  {
+    "title": "WP Engine",
+    "hex": "#0ECAD4"
+  },
+  {
+    "title": "WP Rocket",
+    "hex": "#F56640"
+  },
+  {
+    "title": "write.as",
+    "hex": "#5BC4EE"
+  },
+  {
+    "title": "WWE",
+    "hex": "#000000"
+  },
+  {
+    "title": "Wwise",
+    "hex": "#00549F"
+  },
+  {
+    "title": "X.Org",
+    "hex": "#F28834"
+  },
+  {
+    "title": "Xamarin",
+    "hex": "#3498DB"
+  },
+  {
+    "title": "XAML",
+    "hex": "#0C54C2"
+  },
+  {
+    "title": "XAMPP",
+    "hex": "#FB7A24"
+  },
+  {
+    "title": "Xbox",
+    "hex": "#107C10"
+  },
+  {
+    "title": "Xcode",
+    "hex": "#147EFB"
+  },
+  {
+    "title": "XDA Developers",
+    "hex": "#EA7100"
+  },
+  {
+    "title": "Xero",
+    "hex": "#13B5EA"
+  },
+  {
+    "title": "XFCE",
+    "hex": "#2284F2"
+  },
+  {
+    "title": "Xiaomi",
+    "hex": "#FF6900"
+  },
+  {
+    "title": "Xilinx",
+    "hex": "#E01F27"
+  },
+  {
+    "title": "Xing",
+    "hex": "#006567"
+  },
+  {
+    "title": "XMPP",
+    "hex": "#002B5C"
+  },
+  {
+    "title": "XRP",
+    "hex": "#25A768"
+  },
+  {
+    "title": "XSplit",
+    "hex": "#0095DE"
+  },
+  {
+    "title": "XState",
+    "hex": "#2C3E50"
+  },
+  {
+    "title": "Y Combinator",
+    "hex": "#F0652F"
+  },
+  {
+    "title": "Yahoo!",
+    "hex": "#6001D2"
+  },
+  {
+    "title": "Yale",
+    "hex": "#FFD900"
+  },
+  {
+    "title": "Yamaha Corporation",
+    "hex": "#4B1E78"
+  },
+  {
+    "title": "Yamaha Motor Corporation",
+    "hex": "#E60012"
+  },
+  {
+    "title": "Yammer",
+    "hex": "#106EBE"
+  },
+  {
+    "title": "Yarn",
+    "hex": "#2C8EBB"
+  },
+  {
+    "title": "Yelp",
+    "hex": "#D32323"
+  },
+  {
+    "title": "Yoast",
+    "hex": "#A4286A"
+  },
+  {
+    "title": "YourTravel.TV",
+    "hex": "#F79025"
+  },
+  {
+    "title": "YouTube",
+    "hex": "#FF0000"
+  },
+  {
+    "title": "YouTube Gaming",
+    "hex": "#FF0000"
+  },
+  {
+    "title": "YouTube Music",
+    "hex": "#FF0000"
+  },
+  {
+    "title": "YouTube Studio",
+    "hex": "#FF0000"
+  },
+  {
+    "title": "YouTube TV",
+    "hex": "#FF0000"
+  },
+  {
+    "title": "Z-Wave",
+    "hex": "#1B365D"
+  },
+  {
+    "title": "Zalando",
+    "hex": "#FF6900"
+  },
+  {
+    "title": "Zalo",
+    "hex": "#0068FF"
+  },
+  {
+    "title": "Zapier",
+    "hex": "#FF4A00"
+  },
+  {
+    "title": "ZDF",
+    "hex": "#FA7D19"
+  },
+  {
+    "title": "Zelle",
+    "hex": "#6D1ED4"
+  },
+  {
+    "title": "Zend",
+    "hex": "#0679EA"
+  },
+  {
+    "title": "Zend Framework",
+    "hex": "#68B604"
+  },
+  {
+    "title": "Zendesk",
+    "hex": "#03363D"
+  },
+  {
+    "title": "Zenn",
+    "hex": "#3EA8FF"
+  },
+  {
+    "title": "Zerodha",
+    "hex": "#387ED1"
+  },
+  {
+    "title": "ZeroMQ",
+    "hex": "#DF0000"
+  },
+  {
+    "title": "Zerply",
+    "hex": "#7BBB6E"
+  },
+  {
+    "title": "Zhihu",
+    "hex": "#0084FF"
+  },
+  {
+    "title": "Zig",
+    "hex": "#F7A41D"
+  },
+  {
+    "title": "Zigbee",
+    "hex": "#EB0443"
+  },
+  {
+    "title": "Zillow",
+    "hex": "#006AFF"
+  },
+  {
+    "title": "Zingat",
+    "hex": "#009CFB"
+  },
+  {
+    "title": "Zoho",
+    "hex": "#C8202B"
+  },
+  {
+    "title": "Zoiper",
+    "hex": "#F47920"
+  },
+  {
+    "title": "Zomato",
+    "hex": "#E23744"
+  },
+  {
+    "title": "Zoom",
+    "hex": "#2D8CFF"
+  },
+  {
+    "title": "Zorin",
+    "hex": "#0CC1F3"
+  },
+  {
+    "title": "Zotero",
+    "hex": "#CC2936"
+  },
+  {
+    "title": "Zulip",
+    "hex": "#FFFFFF"
+  }
+]

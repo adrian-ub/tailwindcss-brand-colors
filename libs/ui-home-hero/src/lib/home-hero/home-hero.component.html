@@ -1,0 +1,134 @@
+<div class="relative bg-gray-900">
+  <div class="absolute inset-x-0 top-full">
+    <svg
+      viewBox="0 0 32 1"
+      fill="currentColor"
+      class="text-gray-900"
+      preserveAspectRatio="none"
+    >
+      <path d="M16 1C4 1 0 0 0 0H32C32 0 28 1 16 1Z"></path>
+    </svg>
+  </div>
+  <div
+    class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8"
+  >
+    <div
+      class="relative max-w-2xl sm:mx-auto sm:max-w-xl md:max-w-2xl sm:text-center"
+    >
+      <h2
+        class="text-gray-200 text-3xl sm:text-5xl md:text-6xl font-black leading-tight max-w-6xl mb-14 font-marker uppercase"
+      >
+        Tailwindcss Brand<br class="hidden md:block" />
+        <span class="relative inline-block px-2">
+          <div
+            class="absolute inset-0 transform -skew-x-12 bg-gradient-to-r from-cyan-400 to-sky-500"
+          ></div>
+          <span class="relative px-10">Colors</span>
+        </span>
+      </h2>
+    </div>
+
+    <div class="flex flex-colr justify-center mb-14">
+      <button
+        type="button"
+        class="w-full sm:w-auto flex-none bg-gray-50 text-gray-400 hover:text-gray-900 font-mono leading-6 py-3 sm:px-6 rounded-xl flex items-center justify-center space-x-2 sm:space-x-4 focus:ring focus:ring-offset-4 focus:ring-offset-gray-900 focus:ring-gray-500 focus:outline-none transition-colors duration-200"
+        (click)="copyClipboard()"
+      >
+        <span class="text-gray-900">
+          <span class="hidden sm:inline text-gray-500" aria-hidden="true"
+            >$
+          </span>
+          npm install @ublabs/tailwindcss-brand-colors
+        </span>
+        <span class="sr-only">(click to copy to clipboard)</span>
+        <svg
+          width="24"
+          height="24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.5"
+        >
+          <path
+            d="M8 16c0 1.886 0 2.828.586 3.414C9.172 20 10.114 20 12 20h4c1.886 0 2.828 0 3.414-.586C20 18.828 20 17.886 20 16v-4c0-1.886 0-2.828-.586-3.414C18.828 8 17.886 8 16 8m-8 8h4c1.886 0 2.828 0 3.414-.586C16 14.828 16 13.886 16 12V8m-8 8c-1.886 0-2.828 0-3.414-.586C4 14.828 4 13.886 4 12V8c0-1.886 0-2.828.586-3.414C5.172 4 6.114 4 8 4h4c1.886 0 2.828 0 3.414.586C16 5.172 16 6.114 16 8"
+          ></path>
+        </svg>
+      </button>
+    </div>
+
+    <div class="flex flex-col justify-center w-full mb-28 md:flex-row md:px-16">
+      <a
+        href="https://github.com/ublabs/tailwindcss-brand-colors"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="block"
+      >
+        <div class="p-5 bg-gray-700 rounded-md">
+          <p class="font-medium text-lg leading-none text-gray-50">
+            <span class="align-top inline-flex flex-row items-center space-x-2">
+              <svg
+                fill="currentColor"
+                viewBox="0 0 16 16"
+                xmlns="http://www.w3.org/2000/svg"
+                class="w-5 h-5"
+              >
+                <path
+                  d="M7.975 16a9.39 9.39 0 003.169-.509c-.473.076-.652-.229-.652-.486l.004-.572c.003-.521.01-1.3.01-2.197 0-.944-.316-1.549-.68-1.863 2.24-.252 4.594-1.108 4.594-4.973 0-1.108-.39-2.002-1.032-2.707.1-.251.453-1.284-.1-2.668 0 0-.844-.277-2.77 1.032A9.345 9.345 0 008 .717c-.856 0-1.712.113-2.518.34C3.556-.24 2.712.025 2.712.025c-.553 1.384-.2 2.417-.1 2.668-.642.705-1.033 1.612-1.033 2.707 0 3.852 2.342 4.72 4.583 4.973-.29.252-.554.692-.642 1.347-.58.264-2.027.692-2.933-.831-.19-.302-.756-1.045-1.549-1.032-.843.012-.34.478.013.667.428.239.919 1.133 1.032 1.422.201.567.856 1.65 3.386 1.184 0 .55.006 1.079.01 1.447l.003.428c0 .265-.189.567-.692.479 1.007.34 1.926.516 3.185.516z"
+                ></path>
+              </svg>
+              <span> Open in GitHub </span>
+            </span>
+          </p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+<ng-template [ngIf]="isCopied | async">
+  <div
+    class="fixed inset-0 flex items-end justify-center px-4 py-6 pointer-events-none sm:p-6 sm:justify-end"
+  >
+    <div
+      class="max-w-sm w-full bg-gray-900 shadow-lg rounded-lg pointer-events-auto"
+    >
+      <div class="rounded-lg shadow-xs overflow-hidden">
+        <div class="p-4">
+          <div class="flex items-start">
+            <div class="flex-shrink-0">
+              <svg
+                class="h-6 w-6 text-green-400"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
+                />
+              </svg>
+            </div>
+            <div class="ml-3 w-0 flex-1 pt-0.5">
+              <p class="text-sm leading-5 font-medium text-gray-200">Copied</p>
+            </div>
+            <div class="ml-4 flex-shrink-0 flex">
+              <button
+                class="inline-flex text-gray-400 focus:outline-none focus:text-gray-500 transition ease-in-out duration-150"
+                (click)="closeNotification()"
+              >
+                <svg class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                  <path
+                    fill-rule="evenodd"
+                    d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
+                    clip-rule="evenodd"
+                  />
+                </svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</ng-template>

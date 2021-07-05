@@ -1,0 +1,52 @@
+{
+  "npmScope": "ublabs",
+  "affected": {
+    "defaultBase": "main"
+  },
+  "implicitDependencies": {
+    "package.json": {
+      "dependencies": "*",
+      "devDependencies": "*"
+    },
+    ".eslintrc.json": "*"
+  },
+  "tasksRunnerOptions": {
+    "default": {
+      "runner": "@nrwl/workspace/tasks-runners/default",
+      "options": {
+        "cacheableOperations": ["build", "lint", "test", "e2e"]
+      }
+    }
+  },
+  "projects": {
+    "feature-home": {
+      "tags": []
+    },
+    "tailwindcss-brand-colors": {
+      "tags": []
+    },
+    "ui-empty-list": {
+      "tags": []
+    },
+    "ui-home-hero": {
+      "tags": []
+    },
+    "ui-list-colors": {
+      "tags": []
+    },
+    "util-brand": {
+      "tags": []
+    },
+    "website": {
+      "tags": []
+    },
+    "website-e2e": {
+      "tags": [],
+      "implicitDependencies": ["website"]
+    }
+  },
+  "workspaceLayout": {
+    "appsDir": "apps",
+    "libsDir": "libs"
+  }
+}

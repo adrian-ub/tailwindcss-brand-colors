@@ -1,0 +1,29 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "rootDir": ".",
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "target": "es2015",
+    "module": "esnext",
+    "lib": ["es2017", "dom"],
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@ublabs/feature-home": ["libs/feature-home/src/index.ts"],
+      "@ublabs/tailwindcss-brand-colors": [
+        "packages/tailwindcss-brand-colors/src/index.ts"
+      ],
+      "@ublabs/ui-empty-list": ["libs/ui-empty-list/src/index.ts"],
+      "@ublabs/ui-home-hero": ["libs/ui-home-hero/src/index.ts"],
+      "@ublabs/ui-list-colors": ["libs/ui-list-colors/src/index.ts"],
+      "@ublabs/util-brand": ["libs/util-brand/src/index.ts"]
+    }
+  },
+  "exclude": ["node_modules", "tmp"]
+}

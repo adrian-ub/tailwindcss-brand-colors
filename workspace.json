@@ -1,0 +1,381 @@
+{
+  "version": 2,
+  "projects": {
+    "feature-home": {
+      "projectType": "library",
+      "root": "libs/feature-home",
+      "sourceRoot": "libs/feature-home/src",
+      "prefix": "ublabs",
+      "targets": {
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/feature-home"],
+          "options": {
+            "jestConfig": "libs/feature-home/jest.config.js",
+            "passWithNoTests": true
+          }
+        },
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/feature-home/src/**/*.ts",
+              "libs/feature-home/src/**/*.html"
+            ]
+          }
+        }
+      }
+    },
+    "tailwindcss-brand-colors": {
+      "root": "packages/tailwindcss-brand-colors",
+      "sourceRoot": "packages/tailwindcss-brand-colors/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": ["packages/tailwindcss-brand-colors/**/*.ts"]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/packages/tailwindcss-brand-colors"],
+          "options": {
+            "jestConfig": "packages/tailwindcss-brand-colors/jest.config.js",
+            "passWithNoTests": true
+          }
+        },
+        "build": {
+          "executor": "@nrwl/node:package",
+          "outputs": ["{options.outputPath}"],
+          "options": {
+            "outputPath": "dist/packages/tailwindcss-brand-colors",
+            "tsConfig": "packages/tailwindcss-brand-colors/tsconfig.lib.json",
+            "packageJson": "packages/tailwindcss-brand-colors/package.json",
+            "main": "packages/tailwindcss-brand-colors/src/index.ts",
+            "assets": ["README.md", "packages/tailwindcss-brand-colors/*.md"]
+          }
+        },
+        "deploy": {
+          "executor": "ngx-deploy-npm:deploy",
+          "options": {
+            "access": "public"
+          }
+        }
+      }
+    },
+    "ui-empty-list": {
+      "projectType": "library",
+      "root": "libs/ui-empty-list",
+      "sourceRoot": "libs/ui-empty-list/src",
+      "prefix": "ublabs",
+      "targets": {
+        "build": {
+          "executor": "@nrwl/angular:ng-packagr-lite",
+          "outputs": ["dist/libs/ui-empty-list"],
+          "options": {
+            "project": "libs/ui-empty-list/ng-package.json"
+          },
+          "configurations": {
+            "production": {
+              "tsConfig": "libs/ui-empty-list/tsconfig.lib.prod.json"
+            },
+            "development": {
+              "tsConfig": "libs/ui-empty-list/tsconfig.lib.json"
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ui-empty-list"],
+          "options": {
+            "jestConfig": "libs/ui-empty-list/jest.config.js",
+            "passWithNoTests": true
+          }
+        },
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ui-empty-list/src/**/*.ts",
+              "libs/ui-empty-list/src/**/*.html"
+            ]
+          }
+        },
+        "deploy": {
+          "executor": "ngx-deploy-npm:deploy",
+          "options": {
+            "access": "public",
+            "buildTarget": "production"
+          }
+        }
+      }
+    },
+    "ui-home-hero": {
+      "projectType": "library",
+      "root": "libs/ui-home-hero",
+      "sourceRoot": "libs/ui-home-hero/src",
+      "prefix": "ublabs",
+      "targets": {
+        "build": {
+          "executor": "@nrwl/angular:ng-packagr-lite",
+          "outputs": ["dist/libs/ui-home-hero"],
+          "options": {
+            "project": "libs/ui-home-hero/ng-package.json"
+          },
+          "configurations": {
+            "production": {
+              "tsConfig": "libs/ui-home-hero/tsconfig.lib.prod.json"
+            },
+            "development": {
+              "tsConfig": "libs/ui-home-hero/tsconfig.lib.json"
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ui-home-hero"],
+          "options": {
+            "jestConfig": "libs/ui-home-hero/jest.config.js",
+            "passWithNoTests": true
+          }
+        },
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ui-home-hero/src/**/*.ts",
+              "libs/ui-home-hero/src/**/*.html"
+            ]
+          }
+        },
+        "deploy": {
+          "executor": "ngx-deploy-npm:deploy",
+          "options": {
+            "access": "public",
+            "buildTarget": "production"
+          }
+        }
+      }
+    },
+    "ui-list-colors": {
+      "projectType": "library",
+      "root": "libs/ui-list-colors",
+      "sourceRoot": "libs/ui-list-colors/src",
+      "prefix": "ublabs",
+      "targets": {
+        "build": {
+          "executor": "@nrwl/angular:ng-packagr-lite",
+          "outputs": ["dist/libs/ui-list-colors"],
+          "options": {
+            "project": "libs/ui-list-colors/ng-package.json"
+          },
+          "configurations": {
+            "production": {
+              "tsConfig": "libs/ui-list-colors/tsconfig.lib.prod.json"
+            },
+            "development": {
+              "tsConfig": "libs/ui-list-colors/tsconfig.lib.json"
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ui-list-colors"],
+          "options": {
+            "jestConfig": "libs/ui-list-colors/jest.config.js",
+            "passWithNoTests": true
+          }
+        },
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ui-list-colors/src/**/*.ts",
+              "libs/ui-list-colors/src/**/*.html"
+            ]
+          }
+        },
+        "deploy": {
+          "executor": "ngx-deploy-npm:deploy",
+          "options": {
+            "access": "public",
+            "buildTarget": "production"
+          }
+        }
+      }
+    },
+    "util-brand": {
+      "projectType": "library",
+      "root": "libs/util-brand",
+      "sourceRoot": "libs/util-brand/src",
+      "prefix": "ublabs",
+      "targets": {
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/util-brand"],
+          "options": {
+            "jestConfig": "libs/util-brand/jest.config.js",
+            "passWithNoTests": true
+          }
+        },
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/util-brand/src/**/*.ts",
+              "libs/util-brand/src/**/*.html"
+            ]
+          }
+        }
+      }
+    },
+    "website": {
+      "projectType": "application",
+      "root": "apps/website",
+      "sourceRoot": "apps/website/src",
+      "prefix": "ublabs",
+      "targets": {
+        "build": {
+          "executor": "@angular-devkit/build-angular:browser",
+          "outputs": ["{options.outputPath}"],
+          "options": {
+            "outputPath": "dist/apps/website",
+            "index": "apps/website/src/index.html",
+            "main": "apps/website/src/main.ts",
+            "polyfills": "apps/website/src/polyfills.ts",
+            "tsConfig": "apps/website/tsconfig.app.json",
+            "inlineStyleLanguage": "scss",
+            "assets": [
+              "apps/website/src/favicon.ico",
+              "apps/website/src/assets",
+              {
+                "input": "./",
+                "glob": "brands.json",
+                "output": "assets"
+              }
+            ],
+            "styles": ["apps/website/src/styles.scss"],
+            "scripts": []
+          },
+          "configurations": {
+            "production": {
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "500kb",
+                  "maximumError": "1mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "2kb",
+                  "maximumError": "4kb"
+                }
+              ],
+              "fileReplacements": [
+                {
+                  "replace": "apps/website/src/environments/environment.ts",
+                  "with": "apps/website/src/environments/environment.prod.ts"
+                }
+              ],
+              "outputHashing": "all"
+            },
+            "development": {
+              "buildOptimizer": false,
+              "optimization": false,
+              "vendorChunk": true,
+              "extractLicenses": false,
+              "sourceMap": true,
+              "namedChunks": true
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "serve": {
+          "executor": "@angular-devkit/build-angular:dev-server",
+          "configurations": {
+            "production": {
+              "browserTarget": "website:build:production"
+            },
+            "development": {
+              "browserTarget": "website:build:development"
+            }
+          },
+          "defaultConfiguration": "development"
+        },
+        "extract-i18n": {
+          "executor": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "browserTarget": "website:build"
+          }
+        },
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "apps/website/src/**/*.ts",
+              "apps/website/src/**/*.html"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/apps/website"],
+          "options": {
+            "jestConfig": "apps/website/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "website-e2e": {
+      "root": "apps/website-e2e",
+      "sourceRoot": "apps/website-e2e/src",
+      "projectType": "application",
+      "targets": {
+        "e2e": {
+          "executor": "@nrwl/cypress:cypress",
+          "options": {
+            "cypressConfig": "apps/website-e2e/cypress.json",
+            "tsConfig": "apps/website-e2e/tsconfig.e2e.json",
+            "devServerTarget": "website:serve:development"
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "website:serve:production"
+            }
+          }
+        },
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": ["apps/website-e2e/**/*.{js,ts}"]
+          }
+        }
+      }
+    }
+  },
+  "cli": {
+    "defaultCollection": "@nrwl/angular"
+  },
+  "generators": {
+    "@nrwl/angular:application": {
+      "style": "scss",
+      "linter": "eslint",
+      "unitTestRunner": "jest",
+      "e2eTestRunner": "cypress"
+    },
+    "@nrwl/angular:library": {
+      "style": "scss",
+      "linter": "eslint",
+      "unitTestRunner": "jest"
+    },
+    "@nrwl/angular:component": {
+      "style": "scss"
+    }
+  },
+  "defaultProject": "website"
+}

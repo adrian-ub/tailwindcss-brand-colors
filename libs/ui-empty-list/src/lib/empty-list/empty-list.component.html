@@ -1,0 +1,98 @@
+<section class="text-gray-600 body-font">
+  <div class="container px-5 py-24 mx-auto">
+    <h3
+      class="mx-auto mb-12 text-2xl font-semibold leading-none tracking-tighter sm:text-6xl font-marker text-center text-gray-900"
+    >
+      Brand Not Found
+    </h3>
+
+    <div class="grid gap-8 row-gap-5 md:row-gap-8">
+      <div
+        class="p-5 duration-300 transform bg-white border-2 border-dashed rounded shadow-sm border-deep-purple-accent-100 hover:-translate-y-2"
+      >
+        <div class="flex items-center mb-2">
+          <p
+            class="flex items-center justify-center w-10 h-10 mr-2 text-lg font-bold text-white rounded-full bg-gray-900"
+          >
+            1
+          </p>
+          <p class="text-lg font-bold leading-5">Fork/Clone Repository</p>
+        </div>
+        <p class="text-sm text-gray-900">
+          git clone https://github.com/YOUR-USERNAME/tailwindcss-brand-colors
+        </p>
+      </div>
+      <div
+        class="p-5 duration-300 transform bg-white border-2 border-dashed rounded shadow-sm border-deep-purple-accent-200 hover:-translate-y-2"
+      >
+        <div class="flex items-center mb-2">
+          <p
+            class="flex items-center justify-center w-10 h-10 mr-2 text-lg font-bold text-white rounded-full bg-gray-900"
+          >
+            2
+          </p>
+          <p class="text-lg font-bold leading-5">Install Dependencies</p>
+        </div>
+        <p class="text-sm text-gray-900">yarn install</p>
+      </div>
+      <div
+        class="p-5 duration-300 transform bg-white border-2 border-dashed rounded shadow-sm border-deep-purple-accent-200 hover:-translate-y-2"
+      >
+        <div class="flex items-center mb-2">
+          <p
+            class="flex items-center justify-center w-10 h-10 mr-2 text-lg font-bold text-white rounded-full bg-gray-900"
+          >
+            3
+          </p>
+          <p class="text-lg font-bold leading-5">Select Color</p>
+        </div>
+        <input type="color" class="w-full mb-2" [formControl]="colorForm" />
+      </div>
+      <div
+        class="p-5 duration-300 transform bg-white border-2 border-dashed rounded shadow-sm border-deep-purple-accent-200 hover:-translate-y-2"
+      >
+        <div class="flex items-center mb-2">
+          <p
+            class="flex items-center justify-center w-10 h-10 mr-2 text-lg font-bold text-white rounded-full bg-gray-900"
+          >
+            4
+          </p>
+          <p class="text-lg font-bold leading-5">Set Brand Color</p>
+        </div>
+        <p class="text-sm text-gray-900">
+          yarn nx workspace-schematic add-brand --name={{ brand }} --hex={{
+            colorForm.value
+          }}
+        </p>
+      </div>
+
+      <div
+        class="relative p-5 duration-300 transform bg-white border-2 rounded shadow-sm border-gray-900 hover:-translate-y-2"
+      >
+        <div class="flex items-center mb-2">
+          <p
+            class="flex items-center justify-center w-10 h-10 mr-2 text-lg font-bold text-white rounded-full bg-gray-900"
+          >
+            5
+          </p>
+          <p class="text-lg font-bold leading-5">Finish</p>
+        </div>
+        <p class="text-sm text-gray-900">Commit, Push and PR</p>
+        <p
+          class="absolute top-0 right-0 flex items-center justify-center w-8 h-8 -mt-4 -mr-4 font-bold rounded-full bg-gray-900 sm:-mt-5 sm:-mr-5 sm:w-10 sm:h-10"
+        >
+          <svg class="text-white w-7" stroke="currentColor" viewBox="0 0 24 24">
+            <polyline
+              fill="none"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-miterlimit="10"
+              points="6,12 10,16 18,8"
+            ></polyline>
+          </svg>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>

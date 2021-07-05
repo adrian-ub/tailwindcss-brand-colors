@@ -1,0 +1,24 @@
+{
+  "cli": "nx",
+  "id": "add-brand",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Icon Name",
+      "$default": {
+        "$source": "argv",
+        "index": 0
+      }
+    },
+    "hex": {
+      "type": "string",
+      "description": "Hex Color",
+      "$default": {
+        "$source": "argv",
+        "index": 0
+      }
+    }
+  },
+  "required": ["name", "hex"]
+}

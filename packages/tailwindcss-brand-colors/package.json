@@ -1,0 +1,16 @@
+{
+  "name": "@ublabs/tailwindcss-brand-colors",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ublabs/tailwindcss-brand-colors.git"
+  },
+  "homepage": "https://tailwindcss-brand-colors.pages.dev/",
+  "license": "MIT",
+  "keywords": [
+    "Tailwind",
+    "Tailwindcss",
+    "Brand",
+    "Colors"
+  ]
+}

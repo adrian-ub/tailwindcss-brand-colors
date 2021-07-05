@@ -1,0 +1,9 @@
+<ublabs-home-hero></ublabs-home-hero>
+<div class="px-0 lg:px-6 flex flex-row justify-center items-start -mt-36">
+  <div class="z-10">
+    <ublabs-ui-list-colors
+      *ngIf="brands$ | async as brands"
+      [brands]="brands"
+    ></ublabs-ui-list-colors>
+  </div>
+</div>
