@@ -29,7 +29,10 @@ module.exports = {
     // ...
   },
   plugins: [
+    //  for all list
     require('@ublabs/tailwindcss-brand-colors'),
+    // select the brands
+    require('@ublabs/tailwindcss-brand-colors')(['angular', 'tailwindcss']),
     // ...
   ],
 };
@@ -41,25 +44,25 @@ module.exports = {
 
 - Fork/Clone Repository
 
-    ```sh
-    git clone https://github.com/YOUR-USERNAME/tailwindcss-brand-colors
-    ```
+  ```sh
+  git clone https://github.com/YOUR-USERNAME/tailwindcss-brand-colors
+  ```
 
 - Install Dependencies
 
-    ```sh
-    yarn install
-    ```
+  ```sh
+  yarn install
+  ```
 
 - Select Color
 
-    Ex: `#111827`
+  Ex: `#111827`
 
 - Set Brand Color
 
-    ```sh
-    yarn nx workspace-schematic add-brand --name=<brand-name> --hex=#111827
-    ```
+  ```sh
+  yarn nx workspace-schematic add-brand --name=<brand-name> --hex=#111827
+  ```
 
 ## Credits
 
